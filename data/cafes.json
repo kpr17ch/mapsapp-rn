@@ -1,0 +1,2744 @@
+[
+  {
+    "id": "ChIJLWk4fqegvUcRAyU3BoPIzqQ",
+    "name": "Café 7",
+    "address": "Am Rosenberg 1, 65934 Frankfurt am Main",
+    "latitude": 50.102248,
+    "longitude": 8.5589662,
+    "rating": 4.5,
+    "reviewCount": 48,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepqwVsG0V4gd9DKbixescZc5NgZ0AqznTH_qTvFHxEtHBoa4VVnDuuIXySPXehn_N4ZNyodtmu49jbE1IpsziQKqo3ZMPVpL-27lkd65YcpuK1kFVylY6tvPe5dggNyZ6_6Cvec8Q=w800-h500-k-no"
+    ],
+    "website": "https://www.facebook.com/pages/Caffe-7/603958123065119"
+  },
+  {
+    "id": "ChIJPXigJtYLvUcRx9I1M2oMOZA",
+    "name": "Cafe Bar By Tina",
+    "address": "Luthmerstraße 53, 65934 Frankfurt am Main",
+    "latitude": 50.099781,
+    "longitude": 8.5725123,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMHvFhJeDhaV4jPXcso-GYae_A-_XCYpalua-Yu=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJnRIn_9wLvUcR45aA8_VGj5w",
+    "name": "Coffeeshop - Sueño",
+    "address": "Pforzheimer Str. 7, 60329 Frankfurt am Main",
+    "latitude": 50.1043248,
+    "longitude": 8.6630793,
+    "rating": 4.8,
+    "reviewCount": 435,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoEklWZ29DWzFPuIM7vP0UJ3QgfSGcDe8T3xo4nDZm9MD1jzEYY9hAEMmWLbgZcnteSFXAYuLTZ_xqqkE3nqjeQYsqUvIdhUQ8a5V43FUdwdh6oBL-9yufQ1oQh2MS_VuQWz9tudw=w800-h500-k-no"
+    ],
+    "phone": "+49 178 2498709"
+  },
+  {
+    "id": "ChIJ2fAP0Q0KvUcRct5owenMuMQ",
+    "name": "Cafe Reyna",
+    "address": "Mainzer Landstraße 786, 65934 Frankfurt am Main",
+    "latitude": 50.0987165,
+    "longitude": 8.5684641,
+    "rating": 4.2,
+    "reviewCount": 33,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepd31ErdV9Z0a9i9l0xUgPZCICY8YtA6JFvmGJrL7pGBqFHpGWwfDipslJjWKT22ApYR5jSprBSvvCr72RmMragKn0_QDobZLUJsYdfPESJD8-K-ilES-wBkhc_etVHHo5k6wEV=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJv1eaOxkKvUcRam9uKsussnM",
+    "name": "Kaffee-Service Rhein-Main: Jura Kaffeevollautomaten - Verkauf und Service",
+    "address": "Grüne Winkel 10, 65934 Frankfurt am Main",
+    "latitude": 50.1075374,
+    "longitude": 8.5827654,
+    "rating": 5.0,
+    "reviewCount": 12,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOyHWWBF_mBiAx2IKp_pZxwjaArdsmkR-YSy6mb=w800-h500-k-no"
+    ],
+    "phone": "+49 69 38997391",
+    "website": "http://www.kaffee-service-rhein-main.de/"
+  },
+  {
+    "id": "ChIJtx0MMukLvUcRhoZaLWNbtRQ",
+    "name": "Eiscafé Stellwerk",
+    "address": "Neumarkt 1, 65934 Frankfurt am Main",
+    "latitude": 50.1078183,
+    "longitude": 8.584388,
+    "rating": 4.7,
+    "reviewCount": 301,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq23ctxo-G-RcD-qaNihL-I-IWwwjqQys_w5Ld282lJ7WaO4rWkqufN0F7Nge-B-10NDavBoO5w4MSETLhtaamoupK9FVx84d77KleZpCt_YqXAD73juXzrTuT2H8gHD768-KLqWw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 93993689"
+  },
+  {
+    "id": "ChIJ3-YjsRsKvUcRF3SCllp9F_o",
+    "name": "Malhi's Café & Co.",
+    "address": "Heusingerstraße 76, 65934 Frankfurt am Main",
+    "latitude": 50.1065007,
+    "longitude": 8.5780816,
+    "rating": 4.2,
+    "reviewCount": 42,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer1oNyDK5wRq1_2UKNbFzjCHyuB-b6TXQg-V8t-c315U43NM4hwdl1ZBP0PyjHyoh_gezQhFPVMm7ggruBOhFNXP_fYynGU9kB4wTdOMHsOeSzWx95YxBxojH4bbXvDPIyJB3vd=w800-h500-k-no"
+    ],
+    "phone": "+49 1521 7551733"
+  },
+  {
+    "id": "ChIJZR2ymKkLvUcRrba5EyfuKOk",
+    "name": "Imperial Bar Lounge",
+    "address": "Mainzer Landstraße 788, 65934 Frankfurt am Main",
+    "latitude": 50.0986689,
+    "longitude": 8.5682789,
+    "rating": 4.6,
+    "reviewCount": 41,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerfuF4Y6kEeD5dP7A-DA7vac5D9YKTnUVIVmHadiZc2gXAFz0mSvFMcBshYOLs3bVyERzK8tjEaRlSn-z2ehioqjn64_rp9P9cG1c7A8e5x9QvQYTmtygKHOgoOr_mTDEOjYl84=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJhXhK7xEKvUcR375Ap6aFeVM",
+    "name": "Cafe & Bar Treffpunkt 069",
+    "address": "Luthmerstraße 51, 65934 Frankfurt am Main",
+    "latitude": 50.100019,
+    "longitude": 8.5721743,
+    "rating": 4.3,
+    "reviewCount": 9,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MKlnWvPE1psatP6E5CW6bg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=228.33385&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJ7ySUJ8GhvUcRywodCzX0kYQ",
+    "name": "Ovy's Cafe",
+    "address": "Königsteiner Str. 2A, 65929 Frankfurt am Main",
+    "latitude": 50.1007611,
+    "longitude": 8.5497488,
+    "rating": 4.7,
+    "reviewCount": 30,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepR4qxFEdhIsb9EchDTtAblF0-pL-X2BYtzt6OFtg0wK71XFiB1VywH4ZEvrofJMmWimCeELYn2bIyAzCEJFs3gLXIatAmyqyUuxGOLfV5-y6sc-Pw919PhIiSzFky6lYg5eAkiHA=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJnzm5EjUKvUcRFxLcDme0YF8",
+    "name": "Cafe 38",
+    "address": "Linkstraße 42, 65933 Frankfurt am Main",
+    "latitude": 50.0918286,
+    "longitude": 8.6039344,
+    "rating": 4.6,
+    "reviewCount": 20,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepSRUn6-g-xzp0jlTYbAK_-zdhx2ClN4dJBH0X3VTd6rRciBnBKLifAWPmLQh70A7BVNJDewCqENXb98-24ieEAIFjRxq_1tSbxWh45tqqvAaAsJDe9RxMkMAk1upJSPdEp8e7k=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJgTDOgjUKvUcRstho2-Ramho",
+    "name": "Billard Cafe Bar Deluxe",
+    "address": "Hartmannsweilerstraße 64, 65933 Frankfurt am Main",
+    "latitude": 50.0919476,
+    "longitude": 8.6052783,
+    "rating": 4.5,
+    "reviewCount": 63,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqFH2nnqvpguvm_4YWBS3IbZAigiiWSDaUJ8ohv6U6koqqE_FQlq4iMAyUZw6h5CkfkXGHTHHHSYS_pouS11a82L4-ge--SlNCbtbzxXLzbHUs4k2_nqO99bY39vG8P_aD1yuxXbw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 35101518"
+  },
+  {
+    "id": "ChIJiZBQvVcJvUcR0YWV8axWWcY",
+    "name": "Kaffeewerk Espressionist",
+    "address": "Friedrich-Ebert-Anlage 35-37, Südseite Tower 185, 60327 Frankfurt am Main",
+    "latitude": 50.1100412,
+    "longitude": 8.6555331,
+    "rating": 4.7,
+    "reviewCount": 362,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqMPBMBkv9vX-301M9zJuDZ3ZkAS5iquYR0jxvyUxxCu6719H9t_RDry7Hb-Mo4HhTd9wc0ed3fgtqszQiSyjw57_Z4eEpZqaZXwKpjBd8uvkqTwBIs0_5kDTtGsa4R5vRcHQ0yWQ=w800-h500-k-no"
+    ],
+    "website": "http://www.kaffeewerk-espressionist.de/"
+  },
+  {
+    "id": "ChIJxU5lABIKvUcRY1xb2cPZnAU",
+    "name": "Code Shisha Bar",
+    "address": "Am Mainplacken 2, 65934 Frankfurt am Main",
+    "latitude": 50.09883,
+    "longitude": 8.5712914,
+    "rating": 4.6,
+    "reviewCount": 37,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo_kye5MclUn_eXK4vHVQsEdK0t5EFvgtAWjrKhYYaal6tbPz1sWBP5F5lstS2zXrCdXw_vcRjLbiK58EhM68jzyqU0ViTN39TgAerirIVASJQh56JH6A40AF1ZAk1Y5N_g6atZOw=w800-h500-k-no"
+    ],
+    "phone": "+49 163 4835911"
+  },
+  {
+    "id": "ChIJVY40dqegvUcRkpcF_h4N8TA",
+    "name": "Noo Name",
+    "address": "65934 Frankfurt am Main West",
+    "latitude": 50.1024584,
+    "longitude": 8.5580858,
+    "rating": 4.8,
+    "reviewCount": 88,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqX7WVzoNO3ZdQJtLZ61ZWeY6h6u-sO4ly_7gZTMsxy1ssYXwqw8UVYKWaAZfrQuG531Q2GVG26sUaPmTS02-hAN-jhZ_zTv8qt95O_nMfnvq_u3VUGmuFmvwEtBP0LKHb3kUP2FA=w800-h500-k-no"
+    ],
+    "phone": "+49 173 6672003"
+  },
+  {
+    "id": "ChIJG-K3MKOgvUcRMlKIwQIoF0g",
+    "name": "Das Marktcafe",
+    "address": "Höchster Markt, 65929 Frankfurt am Main",
+    "latitude": 50.0992696,
+    "longitude": 8.545418,
+    "rating": 4.5,
+    "reviewCount": 110,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer78sEFbsuVSc0ekM1RVo6JcGCqws9EzGFAJ9xLSE5HRHtXnvQEjW2SNCmoU3dBZ_TQiKqt4senMRyBh57AnRAvvOxnr-O53IBswSXs5m4U3mYObZ-hSihKt1YtwEuDCOYqZBit=w800-h500-k-no"
+    ],
+    "phone": "+49 69 333322",
+    "website": "http://www.dasmarktcafe.de/"
+  },
+  {
+    "id": "ChIJlTOYZKOgvUcRL3uePDfgP3U",
+    "name": "Frau Grau",
+    "address": "Albanusstraße 16, 65929 Frankfurt am Main",
+    "latitude": 50.1004525,
+    "longitude": 8.5475653,
+    "rating": 4.7,
+    "reviewCount": 454,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq9xwZLTj-3Sd-tziQdf5ZMWTQaMwn0nEX8isA5kyCctJ_Z_vd5YuF092NI5kzokLf6tJwldyEHqx1dDrBjz51tRW8SHD-pYKKzpPGlRxm4Oodi67PoDmUC_Z4Q_pLcZRfW5kZO=w800-h500-k-no"
+    ],
+    "phone": "+49 69 33996010"
+  },
+  {
+    "id": "ChIJj1MvC6SgvUcR81pVlMJL1jw",
+    "name": "Cafe Patron - sky",
+    "address": "Bolongarostraße 124, 65929 Frankfurt am Main",
+    "latitude": 50.1006891,
+    "longitude": 8.5503537,
+    "rating": 5.0,
+    "reviewCount": 12,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMoDCQM35IB4DUiqGFTDInVkyrTMHxoH78Jf4ta=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJJU9PaEMJvUcRfDJnV9A5PV0",
+    "name": "Brühmarkt",
+    "address": "Leipziger Str. 1, 60487 Frankfurt am Main",
+    "latitude": 50.120253,
+    "longitude": 8.649493,
+    "rating": 4.5,
+    "reviewCount": 888,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoca3AL2zffu3TBueeZGORcTcDn4j1ZzZaGbQpH4fiEOR5khXlmrUntatjqU_obJSQgzyoi5jkHWUkckzu0pW2p7R6YwcS3x9JptPP394p9mgAjsXiNzZYJxQPZCWfnkH9sv8Cw=w800-h500-k-no"
+    ],
+    "website": "http://www.bruehmarkt.com/",
+    "description": "Coffee beans roasted & ground at a hip stop with cakes & fruit salads to take out or eat on a patio."
+  },
+  {
+    "id": "ChIJ_w6E1xgKvUcRqVgaZPfyhL8",
+    "name": "Stellwerk DHL Paketshop & Eiscafé ToGo",
+    "address": "Neumarkt 1, 65934 Frankfurt am Main",
+    "latitude": 50.1078337,
+    "longitude": 8.5843694,
+    "rating": 4.8,
+    "reviewCount": 64,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipNwH15ar7PfQkrdMtIX_ZY8VeYExcqgGzyice6j=w800-h500-k-no"
+    ],
+    "phone": "+49 69 93993689"
+  },
+  {
+    "id": "ChIJWQoxcVWnvUcRYc0UZkfNZbs",
+    "name": "Café Kitzel",
+    "address": "Kurmainzer Str. 205, 65936 Frankfurt am Main",
+    "latitude": 50.1173312,
+    "longitude": 8.5624643,
+    "rating": 4.6,
+    "reviewCount": 340,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq_cBYmatVzQDksMv3o0LIq7pHn7KfK9IMWF0acNBe07QaRAERRzm6GQrJnD_nUt6tT3-K0UedrKUjYP0VtBjePS7bUdP7M9RKo4soQFC4K2763GPpNcAv9Sn385Q9p5tfgr5f_=w800-h500-k-no"
+    ],
+    "phone": "+49 69 341196",
+    "website": "http://www.cafekitzel.com/"
+  },
+  {
+    "id": "ChIJZS6GP1ELvUcRp7e70_SnSWs",
+    "name": "Hellers Blumencafe",
+    "address": "Bingelsweg 40, 65933 Frankfurt am Main",
+    "latitude": 50.101271,
+    "longitude": 8.6027227,
+    "rating": 4.9,
+    "reviewCount": 154,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipPDzLAmXYd-CnBLGSq0lsVJUHOBJ1CMcYzrCgGX=w800-h500-k-no"
+    ],
+    "phone": "+49 69 392747"
+  },
+  {
+    "id": "ChIJzQP1GKOgvUcR99p67uouZpU",
+    "name": "Cafe Bolongaro",
+    "address": "Bolongarostraße, 65929 Frankfurt am Main",
+    "latitude": 50.0986569,
+    "longitude": 8.5465304,
+    "rating": 4.9,
+    "reviewCount": 16,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq20UIEsXxZBzJCyf1hpHdnxFYMDY1xg3xNjuzz3YmGjurwksRlJ6FR2Oz0svQtIJjQAe8kFn9ZHpFdsOX2bQ9poN18SZ_1mfkT8GgE7O0jNJAl9jEkD3pz0uNDWfWcectIbNm9UiL2cYAV=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJ5Tn644ELvUcRbYdtuuYTSuc",
+    "name": "Mein Bäcker - Backshop",
+    "address": "Lotzstraße 13, 65934 Frankfurt am Main",
+    "latitude": 50.10208,
+    "longitude": 8.5685725,
+    "rating": 4.4,
+    "reviewCount": 98,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipNlQnSpa7v_bReHoweABehQt5FDa4I_DiqXWS_W=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJgxdlc2UPvUcRqcvBssgry5k",
+    "name": "Die grüne Kaffeebohne",
+    "address": "Hanauer Landstraße 115, 60314 Frankfurt am Main",
+    "latitude": 50.1116706,
+    "longitude": 8.7091196,
+    "rating": 4.5,
+    "reviewCount": 394,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweokE42PUkx4_SwqQrIqn6gvfstTjUDY9_t9jISHUHvT3T3SzV7uO3dAVAtBgHGJvAytimPDOstfa_c2zk7mZG7IfJEWjgAKvlesveDUZm4UdrmMhmKkF8d1l6XohRzQee5ZFmxC=w800-h500-k-no"
+    ],
+    "phone": "+49 69 89990339",
+    "website": "https://www.instagram.com/diegruenekaffeebohne%3Figsh%3DNDdwY3o0d2MwZjNt"
+  },
+  {
+    "id": "ChIJewgo0w0KvUcR_e-6Jxx55rQ",
+    "name": "Eis-Cafe Riviera",
+    "address": "Mainzer Landstraße 788, 65934 Frankfurt am Main",
+    "latitude": 50.0986806,
+    "longitude": 8.56806,
+    "rating": 4.1,
+    "reviewCount": 115,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer34sS_1FSnUS6t6g0XDc9mfjJJORKu4FDkuNbtjFhfd9piMvKngX6ynZOzs3k_Dy1R5nFVvRJFQJl92a4se8cJ_14Bholur9tvJ4RfQ8DS91pUEXf1kH2kiFAtgAiz6yzuW1qbtg=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJfWjcNq8OvUcR0LwOiCtIGS0",
+    "name": "Wacker's coffee shop",
+    "address": "Kornmarkt 9, 60311 Frankfurt am Main",
+    "latitude": 50.1121037,
+    "longitude": 8.6793032,
+    "rating": 4.6,
+    "reviewCount": 1746,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepfe3jXHIATfm6zu1gGVFq_Am3pIP37dK8YlGA1CP4q651E_ocbOmRoARF5bCqPyz_U6ScMjpEjxLmkWIQ9x9kzzulTBXntkV0OCKCFZa6OdJT3r-oRM2MWk9FHrS2OWna-e7o=w800-h500-k-no"
+    ],
+    "phone": "+49 69 287810",
+    "website": "https://www.wackers-kaffee.com/"
+  },
+  {
+    "id": "ChIJ6U7h2UwJvUcR3SLSXuxtRj8",
+    "name": "Mein Bäcker",
+    "address": "Carl-Sonnenschein-Straße 100, 65936 Frankfurt am Main",
+    "latitude": 50.1241904,
+    "longitude": 8.5717938,
+    "rating": 4.5,
+    "reviewCount": 234,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipP6yKtccUPfbuATn_lrvqnDBYAwh5hHuAgFjSqj=w800-h500-k-no"
+    ],
+    "website": "https://www.instagram.com/mein.backer/"
+  },
+  {
+    "id": "ChIJ2VXjMjQKvUcRjAIzrQrySHI",
+    "name": "Z1 Cafe",
+    "address": "Autogenstraße 20, 65933 Frankfurt am Main",
+    "latitude": 50.0940675,
+    "longitude": 8.6038412,
+    "rating": 4.4,
+    "reviewCount": 61,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerjfhSskC3cD3_uExVzUHI050rN4Odn-x-TTMZL2YLKp42ELwBBHbRKcaZXaTZzSzl4vVh1hi64Kl8C-r_SVoTfHQlBysJALzidoYd9pjK92_BmkDuDm45AfHFFSL38ol7gmVsi=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJFRH8a66gvUcRY0UUpsp1dS8",
+    "name": "Café McNair",
+    "address": "Herbesthaler Str. 2-4, 65929 Frankfurt am Main",
+    "latitude": 50.109876,
+    "longitude": 8.5502448,
+    "rating": 3.8,
+    "reviewCount": 46,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep2Vk4zjrVlYlcY2b5bp3RSW0sv8MQz0ZoYqXIct-yYSdsYWeHu2aGp5WbEN0B4Q1QKNXZv0c9sRDatJSdKV8q4dCK4Hgbsvg56hQQnzzzr8KFm516lazWczAK-yGBG_b3CROQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 3003879916"
+  },
+  {
+    "id": "ChIJk7vfkRoKvUcRUCEHR6kc7dg",
+    "name": "Zum Laternchen",
+    "address": "Oeserstraße 71, 65934 Frankfurt am Main",
+    "latitude": 50.1048328,
+    "longitude": 8.5761548,
+    "rating": 4.4,
+    "reviewCount": 86,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep2CvDSmQz0Ktv1PMsrLOsYF2okdwJWPv64QZPwysQa-GoPB80DpWLrtDkqUqa8DjvWxQ7cZueQkLeThnoAG7jmzDO5tJpotObUMQJ4VLRmTceOFes47nAuWuYuwPVLfodEu3Bi=w800-h500-k-no"
+    ],
+    "phone": "+49 69 396169"
+  },
+  {
+    "id": "ChIJMQ4egeMNvUcRXAUZTeIi4nc",
+    "name": "NERO UNO",
+    "address": "Voltastraße 74, 60486 Frankfurt am Main",
+    "latitude": 50.1171056,
+    "longitude": 8.634069,
+    "rating": 4.7,
+    "reviewCount": 248,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoqkawmi27RWkEM6Mc1e5kTt5Q56ZFDeGzgA7zSZcwoDZHDoTYuxUKf-SzvBEKWzzj8LSt03OWKUAo2dJKvGp0EnyfvRvCfYVPf5OXqH7LHFuK_hgiUsRzzGfbLdwj2zR1UV82B=w800-h500-k-no"
+    ],
+    "phone": "+49 163 4435293",
+    "website": "http://www.nerouno.de/"
+  },
+  {
+    "id": "ChIJ4R3WdaSgvUcRT-OzrY5mh4A",
+    "name": "Café Maydan",
+    "address": "Königsteiner Str. 2A, 65929 Frankfurt am Main",
+    "latitude": 50.1007545,
+    "longitude": 8.5497563,
+    "rating": 3.9,
+    "reviewCount": 16,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweopmWyhf0JzljPnveRdrAxoAlh-GGPPL_8VEQyk_jKy2hmQD7uoarYSniJwp3hFncEEmsn85JJ1HXaZr-uZYjzGH74RyytUgLt-xPDh6OdF7wMIzmaMfRDSnTjH11vh4p1PO0jw=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJ0w7d_g0KvUcR9ZbAai79x1Q",
+    "name": "Kiosk Am Treppchen",
+    "address": "Am Mainplacken 1, 65934 Frankfurt am Main",
+    "latitude": 50.0987234,
+    "longitude": 8.5709659,
+    "rating": 4.5,
+    "reviewCount": 34,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerQybITUQXQhIdP1CJqxB3hoeb4ToBzg0n7Qkv8knKQyYkzNBW_gNb-1Z8M4EPLA9uibYdCZWGxVWzFr-t3qhAUvDGkOF-KaJMdWWY-qfhmSq_H-dfxBxSmV8Y7YlCv8naJF9I-izgYSBs=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJ51xMNkMJvUcRjhwAxA7nWGw",
+    "name": "Café Crumble",
+    "address": "Kiesstraße 41, 60486 Frankfurt am Main",
+    "latitude": 50.119549,
+    "longitude": 8.648627,
+    "rating": 4.5,
+    "reviewCount": 984,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerXYvtIG5RgvuUYVncTpRk8sgoKosNw9SYPw8TEXTY3lwEUR6qAQvl2E6fFn_iVSIwdOK2OkDdeWdnJiOtZuVxZ8LdYOuIJGLhnIqadUc5vMv06tZJooBbg5Qrqk6cKcYq-7NI8iw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 71588738",
+    "website": "http://www.cafecrumble.de/",
+    "description": "Cozy spot with a leafy garden, popular for breakfast, brunch & homemade desserts, plus coffee."
+  },
+  {
+    "id": "ChIJkchhQuoLvUcRb6ZXX8MWHt0",
+    "name": "Einkaufskiosk Alt Nied",
+    "address": "Alt-Nied 19, 65934 Frankfurt am Main",
+    "latitude": 50.0988812,
+    "longitude": 8.566012,
+    "rating": 4.8,
+    "reviewCount": 32,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMhCQzmL6S8VuOq_cNPRK-Edhcuy-X6NR6v2ABh=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJ1eSwVmkJvUcRz7fOWz1cg9w",
+    "name": "Stattcafé",
+    "address": "Grempstraße 21, 60487 Frankfurt am Main",
+    "latitude": 50.1247036,
+    "longitude": 8.6391418,
+    "rating": 4.6,
+    "reviewCount": 707,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoeifYhx0Cgihbq0FZey5m4M3TdM7PTv59nMLgvE83CIKpX-l_rXivTb506qUzGSMFmOZ28gKI7IZioAWK6EXrmUvO2Tv9jwdvSMjkkzJYW2v81Q2Xa9yaTpMOk8vm6RyzXbaw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 708907"
+  },
+  {
+    "id": "ChIJi7Zz_a2gvUcRw2LiUXuc9GM",
+    "name": "Höchst Relaxed",
+    "address": "Windthorststraße 59, 65929 Frankfurt am Main",
+    "latitude": 50.11109,
+    "longitude": 8.54889,
+    "rating": 4.6,
+    "reviewCount": 112,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqLoMmuhOaHr8i5ZPPBXFTNA_aQapUaVF758EDbzodcWEWUKhEKfA8WZYg24VW3YhKtWh_80NbilFC6taI2khu46c97m0u11PC2c6iPVeUPD3q7ITOxuSClGSNGlHENMIpEITE-=w800-h500-k-no"
+    ],
+    "phone": "+49 69 98664817",
+    "website": "http://www.hoechst-relaxed.de/"
+  },
+  {
+    "id": "ChIJf71xnKOgvUcRRvs-_XCmK0Y",
+    "name": "Italienische Feinkost - Buon Appetito",
+    "address": "Bolongarostraße 150, 65929 Frankfurt am Main",
+    "latitude": 50.0997941,
+    "longitude": 8.5487859,
+    "rating": 4.6,
+    "reviewCount": 60,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepLtwKMHE6pZtSkkPeKSFv7f5wcgpvhg29HGs7wviHCftNPxcHvTtfpGHbzeOShYGt7r9Hu9eIjFqt5uVqqql1W__ZL64NMOdoTctramhTFzKgSTxbqUtpPacv1QzZ4XbIrSTfBfbRlBmg=w800-h500-k-no"
+    ],
+    "phone": "+49 69 315659"
+  },
+  {
+    "id": "ChIJA09BfA4KvUcRMFA0a7clcaQ",
+    "name": "Holzkopp Die Skihütte in Frankfurt",
+    "address": "Spielmannstraße 26, 65934 Frankfurt am Main",
+    "latitude": 50.0999948,
+    "longitude": 8.5681513,
+    "rating": 4.7,
+    "reviewCount": 560,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipM1rXUN3o6Xr5IGgoew0lLJHe2ZXCeD4htDU3GM=w800-h500-k-no"
+    ],
+    "phone": "+49 69 39047500",
+    "website": "http://holzkopp-frankfurt.de/"
+  },
+  {
+    "id": "ChIJAQCcVA4KvUcRjPAyAMLoJMY",
+    "name": "Lotzer Einkaufskiosk",
+    "address": "Lotzstraße 21, 65934 Frankfurt am Main",
+    "latitude": 50.1015706,
+    "longitude": 8.5691277,
+    "rating": 4.5,
+    "reviewCount": 45,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipN734nTPCZDdw8XTismDa52Ni723z5fdqez0uX_=w800-h500-k-no"
+    ],
+    "phone": "+49 69 97762192"
+  },
+  {
+    "id": "ChIJb3p2UQkKvUcRwphRRBBkPKw",
+    "name": "Bonaparte",
+    "address": "An d. Wörthspitze 1, 65934 Frankfurt am Main",
+    "latitude": 50.099957,
+    "longitude": 8.5645549,
+    "rating": 4.7,
+    "reviewCount": 12,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerFSQDkXzFgJspvRLq9bi8VoR2yRKzvcekMXGAE0v2mw1Me0oW1f9G2AStcXWuvJvRVTgmAlGkkFjqPUL2fVd-HCsJwJ2hlW1KYbl9lkCCQd423Ej_BtgIn45anHC9ihiOTlWmkHFaDhGs=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJW91hLKSgvUcRyAq9lqB5il4",
+    "name": "Park Cafe",
+    "address": "Zuckschwerdtstraße 16, 65929 Frankfurt am Main",
+    "latitude": 50.1027993,
+    "longitude": 8.5521272,
+    "rating": 4.4,
+    "reviewCount": 7,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vMpK4YsxckfeYnfPE9pj2g&cb_client=search.gws-prod.gps&w=800&h=500&yaw=359.80777&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJqfBsTwANvUcRRDrrOBbcNx4",
+    "name": "NOX Coffee and Bar",
+    "address": "Schweizer Str. 98, 60594 Frankfurt am Main",
+    "latitude": 50.0992745,
+    "longitude": 8.6824658,
+    "rating": 3.8,
+    "reviewCount": 169,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep9oZLk_pprjkWmf98I-mYz8D_WTJOpNU377LhXFDCkOw0iVgVi6vxAZLP6p0Dtduaw59QP0iFK-hjr--6pSspubxf6yWC0Dd94uY4jnAaJFjgRtFi40kNz3h6_PXnJktC8qmmHbQ=w800-h500-k-no"
+    ],
+    "website": "https://www.instagram.com/nox.coffee.bar%3Figsh%3DNGZwam1uZGp0bGYw"
+  },
+  {
+    "id": "ChIJlXX-_FsLvUcR2Z4fS3xEKbU",
+    "name": "Midnight Cafe Bar Lounge",
+    "address": "Luthmerstraße 53, 65934 Frankfurt am Main",
+    "latitude": 50.0993633,
+    "longitude": 8.5725526,
+    "rating": 2.5,
+    "reviewCount": 4,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer5bixfNKLLn3-LKrHGzQf4Y6sJ8Rjz0xauFBYFYq2cQ9WO4hY4oMsg2HZ4nJU5IHD8FXrSEf-oSXHeuc5VULE_cDAyTzUf-fy-Z9OW4vUxAdnQtnNUSn7nBkBBWUl-Ir4MZCSJ=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJ3eqF6mkLvUcRhphvV1BcGxY",
+    "name": "Sahansportsbar",
+    "address": "Alter Schulpfad 7, 65934 Frankfurt am Main",
+    "latitude": 50.0995245,
+    "longitude": 8.5651726,
+    "rating": 3.5,
+    "reviewCount": 6,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAU-gNOM_gVViwdDTDIZXm_Jbr-VXKbSZLeHHU62l6hXxIntytayc-0ekyJ5acZKLj9D5aT04Jv8BxusvFSwhTAf3xc_zBnZJIAgwxlPpV9EzmFvLlKtf2l2DwhIVYPpsT8rmT=w800-h500-k-no"
+    ],
+    "phone": "+49 178 4053957"
+  },
+  {
+    "id": "ChIJqRtb9BEKvUcR94Gw98U5LGA",
+    "name": "Marketenderin",
+    "address": "Am Rosengarten 2, 65934 Frankfurt am Main",
+    "latitude": 50.0990413,
+    "longitude": 8.5727784,
+    "rating": 3.9,
+    "reviewCount": 26,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerqs6HAxBGFmboD8SqSVpR5CMqALhf6N9ZlVM-qRqCroNTqQoBXaBJwGu2Bwux1Pbo_EhXNlxyd3AbU3e-ZcO4PD45e5tJPPfgX9IMzEUODe5_qays2IHgtMs2yyQHJsRd9oT2A=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJV8vA2JahvUcRZXhPr3H-Qlo",
+    "name": "Cafe 4 You",
+    "address": "Königsteiner Str. 2A, 65929 Frankfurt am Main",
+    "latitude": 50.1007161,
+    "longitude": 8.5498809,
+    "rating": 4.5,
+    "reviewCount": 31,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer-ZYrTk-Wfrrfe5nym2gh6pWRDdMgTE54rRLuF486wUmM9FhjmbW3khvouyXGym0hZQgrD4Esu1Fb5TXiS5w8A3x_Oul-XEMOhUyWhEXz2-RoZPHhCMMxvT1qdkMWnGokwXjBjkw=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJ100DyToKvUcRHBzSN0z83fQ",
+    "name": "King Bistro-Café",
+    "address": "Zum Linnegraben 15, 65933 Frankfurt am Main",
+    "latitude": 50.1017442,
+    "longitude": 8.5967158,
+    "rating": 4.5,
+    "reviewCount": 41,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerF7DYLrry_Hw2uV1saT_GJRRU7lev3gfcK9j9QV1ztXe4Vonag6pWu-SmaK5G0esSjUocZbMwv0TjyiwJbMkjEFJhp6Wz2zAdpetYkz2aoesbARQB9N0n_cRUD8BNYjWePeuB6zA=w800-h500-k-no"
+    ],
+    "phone": "+49 176 40348298",
+    "website": "https://instagram.com/bistrocafeking"
+  },
+  {
+    "id": "ChIJw6SYUFAJvUcRvQZNUj7o4RQ",
+    "name": "Liebesbrot",
+    "address": "Mendelssohnstraße 60, 60325 Frankfurt am Main",
+    "latitude": 50.1161639,
+    "longitude": 8.6584902,
+    "rating": 4.7,
+    "reviewCount": 729,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweohwmPLXUuKUud8Dmu9m6i-mWYQOSl0Z7JrnGxX0TrOuGcaS-qAK7VTP9zOfOOokJEM_AeobGDAkSJdhZ2iqiGltc8wx25XKNc85S4_zAi2eiB_nmeS9ZLZGbBYoDMBT49G7cfayA=w800-h500-k-no"
+    ],
+    "phone": "+49 69 74743635",
+    "website": "https://www.liebesbrot.com/",
+    "description": "Country-chic supplier of quiche, croissants, cakes & other baked goods, plus coffee & a patio."
+  },
+  {
+    "id": "ChIJJeN0-8oPvUcR_HD6Xb2MvKY",
+    "name": "Love Blend Cafe",
+    "address": "Bornheimer Landwehr 26, 60385 Frankfurt am Main",
+    "latitude": 50.1226767,
+    "longitude": 8.7064746,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipO6PYtD-s7Q-gEABAaI2P5Lqa-6spNX0iTGB4Vn=w800-h500-k-no"
+    ],
+    "website": "https://www.loveblend-cafe.de/"
+  },
+  {
+    "id": "ChIJxf4roaagvUcRl6R4z88p5JI",
+    "name": "Babylon Shisha Bar",
+    "address": "Bolongarostraße 104, 65929 Frankfurt am Main",
+    "latitude": 50.1013426,
+    "longitude": 8.5523972,
+    "rating": 4.4,
+    "reviewCount": 88,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMVF4sVUCwYiaN73vmKVQloVcdxc7KrJGrliLnQ=w800-h500-k-no"
+    ],
+    "phone": "+49 173 5814933",
+    "website": "https://de-de.facebook.com/Babylon-Shisha-Bar-575013695879687/"
+  },
+  {
+    "id": "ChIJTXO-UaOgvUcRYU8fY6iGaDc",
+    "name": "FortyOne Café-Bar",
+    "address": "Emmerich-Josef-Straße 41, 65929 Frankfurt am Main",
+    "latitude": 50.1003493,
+    "longitude": 8.5457832,
+    "rating": 4.6,
+    "reviewCount": 165,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepeEvu9KidB1EYvPlta8n7QROhCtHqJ4goYoKbdKgbj_Ood1non4_slkh7N8hpZnSmEDs-bvsNKzj7bQNbbpelQkiQmTxUPlIv-MrdR2BiGP5DyKJNaelKZdOUEZP4FOjF9y4xC=w800-h500-k-no"
+    ],
+    "phone": "+49 69 30039119",
+    "website": "https://dotmap.me/fortyone-caf-bar-458149-de"
+  },
+  {
+    "id": "ChIJoQOf86OgvUcRlqTMXZb7deM",
+    "name": "Cafe, Restaurant, Bar Frankfurt am Main",
+    "address": "Mainberg 3, 65929 Frankfurt am Main",
+    "latitude": 50.1001093,
+    "longitude": 8.5503721,
+    "rating": 3.4,
+    "reviewCount": 5,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep4mPNibIlqwWi2ve2wsxP5553yJ02OT_EW6_uqEcXdqE1L1PKKJE9EyRvnyqsEwaZCsi5a6HU4pl_YwcoLYVxDiQkbx5YqfaNpyd6_wXZlrmBilROkdOwbDo9kemUZmVavpjIbog=w800-h500-k-no"
+    ],
+    "phone": "+49 69 3004600",
+    "website": "http://www.hoechster-hof.de/"
+  },
+  {
+    "id": "ChIJZ8_tnCIKvUcRzV3CPSMH4Tc",
+    "name": "Vereinshaus Gleis 9¾",
+    "address": "Denisweg 239, 65934 Frankfurt am Main",
+    "latitude": 50.1049283,
+    "longitude": 8.5866035,
+    "rating": 4.4,
+    "reviewCount": 98,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqj6Rlg1N7c2xcB0djCYfbyANC4fvsm1H7JNORCNWSosg-Td9ExHHx3fItluuEBwqG-T0XihqrWrCOYenNsl6R7QSpJcWi-17pToiRnIeN9IC-SyJw2EezOYSvp-D_tW2VIqFjU=w800-h500-k-no"
+    ],
+    "phone": "+49 69 93995602",
+    "website": "http://www.gleis9-dreiviertel.de/"
+  },
+  {
+    "id": "ChIJx8Gf0HgTc0ERWO7hwWWLKRM",
+    "name": "Oeserklause",
+    "address": "Oeserstraße 89, 65934 Frankfurt am Main",
+    "latitude": 50.1051537,
+    "longitude": 8.5774267,
+    "rating": 4.6,
+    "reviewCount": 74,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer2kJbTKMAITkptcoP7SIZ_Xy5fylsxrHVCIklvlyz_91FoD86C8pWfuyJILhi3eqAu-PnbGeNXYSZugXNkDdF4zJJoo0HsM1OmwNt6YDAToZindFAnnalJApmabQ3ivT-6uqNb=w800-h500-k-no"
+    ],
+    "phone": "+49 69 394218"
+  },
+  {
+    "id": "ChIJtQchTjkLvUcRm0uXchpoaAc",
+    "name": "Misoga Frankfurt (미소가)",
+    "address": "Beunestraße 4, 65934 Frankfurt am Main",
+    "latitude": 50.1005652,
+    "longitude": 8.5658694,
+    "rating": 4.9,
+    "reviewCount": 144,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerCesWENz8ti97BaPSS_RMrs48flD8YkjtVi39AL9J4TKEXWsu1_Fz3o5lKVe5gkgNy1mOO1wda9bvS6EYCaPKt3VvoHAJcdKvDLQLuQi04ZFccKzmSujoC5fFcjGBVR3gAcPB9=w800-h500-k-no"
+    ],
+    "phone": "+49 69 31048075",
+    "website": "https://www.instagram.com/misoga.de%3Figsh%3DNGduM3A5cDkxeDNz"
+  },
+  {
+    "id": "ChIJKaAntDwKvUcRd1o5_CF24So",
+    "name": "Bäckerei Dolce Pane Carmela Di Liberto",
+    "address": "Jägerallee 27, 65933 Frankfurt am Main",
+    "latitude": 50.10247,
+    "longitude": 8.59072,
+    "rating": 4.3,
+    "reviewCount": 65,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq-fpVQ_41FiOSOzHOdMHVb2qd2lV-Qj_DxjXXSCq6PLBpXLwIt4xjHFNozeNXlLMqd40xVxc4cb6NtqKuRWo2omxnawsZsiK7jpZs-bXecAZpXWvoMveMcLDzLu9Vl0s-nEFrotw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 394913"
+  },
+  {
+    "id": "ChIJgw0y86SgvUcRLDNM9iMSp_I",
+    "name": "Eis-Café Arnoldo",
+    "address": "Königsteiner Str. 18, 65929 Frankfurt am Main",
+    "latitude": 50.1019516,
+    "longitude": 8.5485058,
+    "rating": 4.1,
+    "reviewCount": 362,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer0FBeVHYlFwNip7v-_hSK1zSz0Y3LMJYwm8lqTVWgE6-MjduBr0HcLZnXmMkZlfMETX6H4JfQ1ZVUF6quWwf8UkDmQLSwi-88eQHQllfNBiZbxEP83Qs26vFCRV5XeRYE3696I0A=w800-h500-k-no"
+    ],
+    "phone": "+49 69 317528",
+    "website": "http://www.eiscafe-arnoldo.de/"
+  },
+  {
+    "id": "ChIJweNNvaUOvUcR47isLyxmcKk",
+    "name": "Mozart Café",
+    "address": "Töngesgasse 23, 60311 Frankfurt am Main",
+    "latitude": 50.113234,
+    "longitude": 8.683279,
+    "rating": 4.4,
+    "reviewCount": 837,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMgfzVDEm08gztnL0lRSL_ClYgtxXOaQlT5gOGR=w800-h500-k-no"
+    ],
+    "phone": "+49 69 291954",
+    "website": "http://mozart-cafe.eatbu.com/",
+    "description": "All-day dining & traditional cakes in a 1915 coffeehouse with red booths & armchairs."
+  },
+  {
+    "id": "ChIJR5e3OcYLvUcRUtXMeWyu1bE",
+    "name": "Asian Store Philippinische Lebensmittel",
+    "address": "Im Grund 1, 65934 Frankfurt am Main",
+    "latitude": 50.09916,
+    "longitude": 8.570435,
+    "rating": 4.6,
+    "reviewCount": 48,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoq0t04Bi4Lugp6tw34G2Qko3NcDiRvyvd4rcHH6R5gQ62PAzTA1Fnxhfve6sl2KngtR5rOBB_gBk6QCvMl7qNjupLnnMcrjfFbvHDQ_3S7uvKgPIK8nOSKLs0cL6oXTIUxAyU-hQ=w800-h500-k-no"
+    ],
+    "phone": "+49 173 8959370",
+    "website": "https://www.facebook.com/pages/category/Shopping---Retail/Jemmas-Sari-Sari-1705360009767059/"
+  },
+  {
+    "id": "ChIJlZPoyYcLvUcR4YFl5_-IORc",
+    "name": "Mr. Octopus",
+    "address": "Nieder Kirchweg 18, 65934 Frankfurt am Main",
+    "latitude": 50.0976627,
+    "longitude": 8.5688213,
+    "rating": 4.5,
+    "reviewCount": 71,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo6XSykHwOamRLlFey265agyucUv7siwevBHoN74DLCxdrzkjE-BEby0w7upRoCgfQNi7gF2uMFl0boPbGp1oqhyxejYrbj627a0YKWNmQg4idZP-ysIc8iaLnfcL78qLsbJlEoumgiizUL=w800-h500-k-no"
+    ],
+    "phone": "+49 69 67737814",
+    "website": "https://www.mroctopus.de/"
+  },
+  {
+    "id": "ChIJ___vQwwKvUcRHRydH--v5E0",
+    "name": "KOREAN Restaurant GangNaRu",
+    "address": "Mainzer Landstraße 791, 65934 Frankfurt am Main",
+    "latitude": 50.0977761,
+    "longitude": 8.5659408,
+    "rating": 4.3,
+    "reviewCount": 661,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqD7bZ_ua9h94KPeGkbAk82f4KhGgrdG_xeDFFbwVyJqsAGOfUNox58DwBl8usf8j7WUTk0-9rWcf5TPK0PpotbEh4N2Fo6ohEk1kFjyc2NHYeBY-oCCk6_omnqg5W5ch9DdmXq=w800-h500-k-no"
+    ],
+    "phone": "+49 69 629090",
+    "website": "http://www.gangnaru.de/"
+  },
+  {
+    "id": "ChIJDdg1LegLvUcRaQVIZNsbB3I",
+    "name": "Gaststätte Nidda-Kampfbahn",
+    "address": "Oeserstraße 74, 65934 Frankfurt am Main",
+    "latitude": 50.1054532,
+    "longitude": 8.5741549,
+    "rating": 4.6,
+    "reviewCount": 121,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepGL3wgVMvwRUWB7lgAST3NHWu_tJU1glM6oktrtowT-6-YJ35s45lVD_805jO4mJDsTEebAyMk4gynVfxbkA79D7D79jBjzVFW12cSfff7X3JQDbwk9db5k60887ojbnh-1gK1aw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 38981881",
+    "website": "http://nidda-kampfbahn.de/"
+  },
+  {
+    "id": "ChIJdeBS6aYOvUcRmiSOREYOag0",
+    "name": "Mainkai Café•Bistro",
+    "address": "Mainkai 15, 60311 Frankfurt am Main",
+    "latitude": 50.1095271,
+    "longitude": 8.685026,
+    "rating": 4.6,
+    "reviewCount": 2468,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerOnTg2MvoAstdbWBnREjC_Ikkh21qvzNmwJBF7gNf-FqBu3f3gHfG7LQHTlePBG1oRzyccXfI_5xbCDuJMvW3Yd7-SJGRi7nQYM6N7q_RQqtl8KzZF5UOM5pJwSi4ftXpV4uqi=w800-h500-k-no"
+    ],
+    "phone": "+49 69 26097565",
+    "website": "http://www.mainkaicafe.de/",
+    "description": "Bright, modern venue for coffee, sandwiches & breakfast, with a terrace overlooking the Main."
+  },
+  {
+    "id": "ChIJXQlpOgAJvUcRGQ6S8GwPjYU",
+    "name": "Cup of Grace Café",
+    "address": "Alt-Sossenheim 31, 65936 Frankfurt am Main",
+    "latitude": 50.120041,
+    "longitude": 8.567243,
+    "rating": 5.0,
+    "reviewCount": 32,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerBB5-oUzx10FD3Une7iBvftQHGrzaaqcOD09DE6gWWGQVCXW_uRmmmeQTcK0G-KG-IuL80wXLF2wUOo3NOsc__y93qKZdPC4xiWCIxTaxNEfKjqjxyTZlDZQJmaam5Rk1rF3TEgLhTELnN=w800-h500-k-no"
+    ],
+    "phone": "+49 69 91314430"
+  },
+  {
+    "id": "ChIJUbogyQkKvUcReaHn8xFMKV4",
+    "name": "Moustache Restaurant&Catering",
+    "address": "Holzlachstraße 2, 65934 Frankfurt am Main",
+    "latitude": 50.1018988,
+    "longitude": 8.5602884,
+    "rating": 4.2,
+    "reviewCount": 324,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqLS4W-3wR-bCQt2mIx6dVmGaUKuk6FO6Pth4iHA8Q8o5zv3BmYjyZB7ekTlK_D1iwHFwl_AoVkiRsU6ErV3GzwWoeoR3GNFYGp5II8wlFqV4Wo8-hS5uh6GtU6NOniFWIyE__c=w800-h500-k-no"
+    ],
+    "phone": "+49 69 82379194"
+  },
+  {
+    "id": "ChIJ0_QnSycJvUcR2qLc83eF7ZA",
+    "name": "the nook caffe & bar",
+    "address": "Leipziger Str. 62A, 60487 Frankfurt am Main",
+    "latitude": 50.1229864,
+    "longitude": 8.645073,
+    "rating": 4.6,
+    "reviewCount": 10,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoA7dMDETdFCPCQap5f4hOzUrEgGfpCZQEayb33Gxkr1oR37kPy-WygKkXf2-JEy8QexeDWelXIGe89_mXbNVjygpzzc0XhJtijM3Ee-sFRAGEDnwsxmRc4rSfukNVEc4ba2t9x3tTFv0lY=w800-h500-k-no"
+    ],
+    "phone": "+49 69 90230878",
+    "website": "https://www.thenookcaffe.de/"
+  },
+  {
+    "id": "ChIJRe3qARoKvUcRODNSc1PGvII",
+    "name": "REWE",
+    "address": "Werner-Bockelmann-Straße 7, 65934 Frankfurt am Main",
+    "latitude": 50.1037963,
+    "longitude": 8.5792158,
+    "rating": 4.0,
+    "reviewCount": 474,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqIYfaEM45D3kKcpR8Om4vIilbaUCkCfhn7KDO5URrWMK7kV10Mz7MRWZLTHH8zxVSZBJnavOgrP7k4nUVWaSVOh-HAJis4aGr6L3B6a2pEBCHHfh-58YcIrHw5bajoeJsRqEsB4g=w800-h500-k-no"
+    ],
+    "phone": "+49 69 3803180",
+    "website": "https://www.rewe.de/marktseite/frankfurt-nied/240510/rewe-markt-werner-bockelmann-strasse-7%3Fecid%3Dseo_localseo_240510_g_nn_nn_nn_nn_nn"
+  },
+  {
+    "id": "ChIJcWpLzBMKvUcR7iNAqBVXrXM",
+    "name": "Nahkauf",
+    "address": "Dürkheimer Str. 40, 65934 Frankfurt am Main",
+    "latitude": 50.0980592,
+    "longitude": 8.5746217,
+    "rating": 3.7,
+    "reviewCount": 372,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweprL_DRQB1ObsDtVhCqWxRitOCudXvk9dQ8IViLi5q1z4PlAEI2P48dqAnllyNEM2PPC4GTyj9lBhInRdMZFnBHsF3D-v2kYQs7Wdu942hIRPodYw5HC1-bXGvolB1EfEkCiBM0ng=w800-h500-k-no"
+    ],
+    "phone": "+49 69 38013626",
+    "website": "https://www.nahkauf.de/maerkte/frankfurt-nied-44618060-sen-zn-gmbh-frankfurt-nied-duerkheimer-str-40/"
+  },
+  {
+    "id": "ChIJf9JIoiALvUcRVE4Lsix4FVY",
+    "name": "Tchibo im Supermarkt",
+    "address": "Werner-Bockelmann-Straße 7, 65934 Frankfurt am Main",
+    "latitude": 50.1037444,
+    "longitude": 8.5789171,
+    "rating": 4.0,
+    "reviewCount": 2,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NRJPv5w4mdIZ1INASyMDBw&cb_client=search.gws-prod.gps&w=800&h=500&yaw=1.8321393&pitch=0&thumbfov=100"
+    ],
+    "phone": "+49 800 3000111",
+    "website": "https://www.tchibo.de/service/storefinder/store/60022485%3Futm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_campaign%3Dbusiness_profile-depot%26utm_content%3D60022485"
+  },
+  {
+    "id": "ChIJKwD9u_AJvUcR4SvitHdgqK4",
+    "name": "CAFÉ LE PIC VERT",
+    "address": "Westerbachstraße 247, 65936 Frankfurt am Main",
+    "latitude": 50.1199655,
+    "longitude": 8.5789543,
+    "rating": 4.8,
+    "reviewCount": 67,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerAerBoTmL4OS-HQiS6a6_2J7g5m2s0Jv2QdfO_kn6Qy7qXIfB9fQPWiZy_7bq22T8QvWnV1cSJKNsDeL3fRM8V4eP7bnNskNO8Rt1nlzvhW4G66F6YQksu44ryTNUYLWg2LleAiw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 341897",
+    "website": "http://www.gartencenter-frankfurt.de/"
+  },
+  {
+    "id": "ChIJEUDW6KOgvUcR3zQ3HLJComs",
+    "name": "Mainmühle Höchst",
+    "address": "Mainberg 2, 65929 Frankfurt am Main",
+    "latitude": 50.0995037,
+    "longitude": 8.5504079,
+    "rating": 4.3,
+    "reviewCount": 115,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepzG59Sva9qQFF8aQ9sBR2nh326npY3yDbGsuBc4UUf0CnHGRpF1gC3HfCuHuWY6qTrZJE-Vqta6EHCQ8-grBksTG7nCg8Q2EdOYz24wNwWGvic7hJrYY1TVpOChFY0Di95qlhQ=w800-h500-k-no"
+    ],
+    "phone": "+49 1520 4101059"
+  },
+  {
+    "id": "ChIJjzMDqZsOvUcRypzP8mtHU5g",
+    "name": "Aniis - Frankfurt am Main",
+    "address": "Hanauer Landstraße 82, 60314 Frankfurt am Main",
+    "latitude": 50.1117459,
+    "longitude": 8.7040693,
+    "rating": 4.6,
+    "reviewCount": 1004,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepbtj_natEeVzl8tuWOFqAnf0vOazlLz_dGMfdLcmaqOYQdbH5Loub7knZn_k4RbQz04tpY70IbiAyZsRlL07NNKxYm0yTEuSCxn8m1iNLj_xQl1V-wn15lGczovkdUdei81JuscA=w800-h500-k-no"
+    ],
+    "phone": "+49 69 94411228",
+    "website": "https://www.aniis.de/",
+    "description": "Cool, bustling hangout for coffee, tea & light bites including pastries, salads & desserts."
+  },
+  {
+    "id": "ChIJSxlz86OgvUcRofRWZONWVe8",
+    "name": "Mainod - Café Restaurant Hotel - das schwimmende Kleinod",
+    "address": "Batterie, 65929 Frankfurt am Main",
+    "latitude": 50.0993438,
+    "longitude": 8.5510869,
+    "rating": 4.6,
+    "reviewCount": 597,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep2vr8WhOAzb1k09W0OGc1vCmqU-e0KIbxn9orxXu_8TcL1QDZXprKiTPbtya0ZKIOO_T02KidTJerlLjrHbmZ_haMPbUOwyQBbohqRlN1Lh6SrUNBpEHt1qeHzbmZiCHINOESvRQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 30067680",
+    "website": "http://www.mainod.de/"
+  },
+  {
+    "id": "ChIJ_9HFYnkPvUcRnhngKADCKVw",
+    "name": "Le Petit Café",
+    "address": "Schulstraße 38, 60594 Frankfurt am Main",
+    "latitude": 50.1063787,
+    "longitude": 8.6847741,
+    "rating": 4.8,
+    "reviewCount": 1368,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqnA7POmcrbCTpeRKynVbIVPWmU4-I6jAsYmTbAlhs444D4jX1J7xNh5T8-oYgn6X5quKqT9ZSFprMwEjBTQBTKLs0qHqgzIwQSwzD7J0jsIFhbYAiisCV2L6adKt6WG2GSsOyk=w800-h500-k-no"
+    ],
+    "phone": "+49 176 64618764",
+    "website": "https://le-petit-cafe-frankfurt.eatbu.com/%3Flang%3Dde"
+  },
+  {
+    "id": "ChIJvzRYZZ8NvUcRSWDpLqXInqw",
+    "name": "Barrio Frankfurt",
+    "address": "Darmstädter Landstraße 42, 60594 Frankfurt am Main",
+    "latitude": 50.1025475,
+    "longitude": 8.690373,
+    "rating": 4.7,
+    "reviewCount": 492,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepYRdBf2TG_QpF2CgNOa9VDIv6sTTFOuT8CSLBM2nzuudK8HVpObIb8qxNJiDeN9A9AXf2QtZMbn2ouAB0KkihHpdJ81CVHrb1-WXRKHD0NxNs1wFfggrMPHm8w9IGM93enw_Mg=w800-h500-k-no"
+    ],
+    "website": "https://barrio-coffee.com/"
+  },
+  {
+    "id": "ChIJQYERsB8MvUcRdZxEezFBzbM",
+    "name": "Amélie's Wohnzimmer - Frankfurt am Main",
+    "address": "Affentorpl. 20, 60594 Frankfurt am Main",
+    "latitude": 50.1038156,
+    "longitude": 8.689321,
+    "rating": 4.5,
+    "reviewCount": 822,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOITo3VA8UXl3E7l2BBMZachM37xE1nhfk5fmK8=w800-h500-k-no"
+    ],
+    "phone": "+49 69 66054926",
+    "website": "https://www.amelies-wohnzimmer.de/",
+    "description": "Breakfast, sandwiches & wines are served in this comfortable coffee shop with a terrace."
+  },
+  {
+    "id": "ChIJddMhcUoNvUcR5UtOEe_uNLI",
+    "name": "ca phe, oi",
+    "address": "Textorstraße 80, 60596 Frankfurt am Main",
+    "latitude": 50.1000051,
+    "longitude": 8.6815782,
+    "rating": 4.6,
+    "reviewCount": 277,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepuCG7NGpYbGmkrbrIhokcK9YXAbasQfcqd1tDepZHaBNP118R0Aqc4nXOPnXdOUpVZmVi5FgxRLHmH_8NVQYyvJ1R1DWys9y6CsyBvGOgSifcub-f5zVD4aPX0-skxzpymhL0hZQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 71161150",
+    "website": "https://www.capheoi.de/"
+  },
+  {
+    "id": "ChIJxzR3HR8MvUcROQbRUVtbSR4",
+    "name": "Cafe Glücklich",
+    "address": "Cafe Glücklich, Textorstraße 24, 60594 Frankfurt am Main",
+    "latitude": 50.1023763,
+    "longitude": 8.6881991,
+    "rating": 4.3,
+    "reviewCount": 548,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqYAap5yxJNsXA1qDs9LcqiLQyqKtk3DDTfJf5Cp8MlYLZC0b2GpVzBk7oiQtm-AftxEe62X8snrUa3l3Bq5ofhp2E1bMPt6rZsafrET6iJI6_idvdMxGDtwkUdS82uNJCI-Sc=w800-h500-k-no"
+    ],
+    "phone": "+49 69 66127602",
+    "website": "https://gluecklich.cafe/"
+  },
+  {
+    "id": "ChIJb4RLvfsNvUcRAcGCiSZJHcs",
+    "name": "retablo specialty coffee",
+    "address": "Schifferstraße 12, 60594 Frankfurt am Main",
+    "latitude": 50.10392,
+    "longitude": 8.68878,
+    "rating": 4.9,
+    "reviewCount": 292,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOWNUqnvxoGaqFsr6o406M7CI1IgFC3FkoBQTpW=w800-h500-k-no"
+    ],
+    "website": "http://retablocoffee.de/"
+  },
+  {
+    "id": "ChIJB5cnJ9QNvUcRSpuYexFM500",
+    "name": "Moka Roasters",
+    "address": "Oppenheimer Landstraße 19, 60594 Frankfurt am Main",
+    "latitude": 50.1023714,
+    "longitude": 8.6810446,
+    "rating": 4.7,
+    "reviewCount": 834,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqQ7TmPbIMGUMJLMsM9n2j188-Bak052Pw3PjS_PqMU3MD9ubi0AmOyY7_Z_yxprUAKFAkvojEhvI1RgnvjXjigkdtOKjudSqqTTJ4g4Zk4Sh8n0UbNWTvq8JBZvLpLlRbZnoJP=w800-h500-k-no"
+    ],
+    "phone": "+49 69 60605831",
+    "website": "http://www.moka-roasters.com/"
+  },
+  {
+    "id": "ChIJZbjEehwMvUcR5zJB9OPyWPk",
+    "name": "Lesecafé",
+    "address": "Diesterwegstraße 7, 60594 Frankfurt am Main",
+    "latitude": 50.1016424,
+    "longitude": 8.6819709,
+    "rating": 4.4,
+    "reviewCount": 363,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqexiA320KSxmps5Ga7nWyZVFZS94HdWvCbafFr-Ww5gJ0qppR7B3204UmmGVW3boFMuU-zU_Mhe5TqkUsx1Ozm7eUjr-y18HpseiEEVW3ngkjohxTiM3MGiVd-uOIAnD0lO5Zy=w800-h500-k-no"
+    ],
+    "phone": "+49 69 91311464",
+    "website": "https://buchhandlung-lesecafe.de/"
+  },
+  {
+    "id": "ChIJa_nZUbENvUcRq629wmJKLQQ",
+    "name": "Café Or´Doñez | Galeria Eldorado",
+    "address": "Tiroler Str. 46, 60596 Frankfurt am Main",
+    "latitude": 50.0944085,
+    "longitude": 8.6750889,
+    "rating": 4.7,
+    "reviewCount": 87,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipPOkF2u44mONJrY5Czi1O7JCDtValcolu7iiLmT=w800-h500-k-no"
+    ],
+    "phone": "+49 69 6312440",
+    "website": "https://www.galeriaeldorado.com/"
+  },
+  {
+    "id": "ChIJTYm6Xx4MvUcR2v9xEN5rEb8",
+    "name": "Schiffer Café",
+    "address": "Schifferstraße 36, 60594 Frankfurt am Main",
+    "latitude": 50.1044391,
+    "longitude": 8.6869399,
+    "rating": 4.4,
+    "reviewCount": 675,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer-TrGWVIoe0O2mLTmUKY2aSO2-DintepDoAIgVX4a8SIgjxIaE_B6p0SVZlk737wsWeAkxlljZMO3lj0yoxO2Xme5Tu2StXbbGM1v7fBL6vYO9IFnndCbk39ouIxZhjyX01y1h=w800-h500-k-no"
+    ],
+    "phone": "+49 69 61993221",
+    "website": "http://www.schiffercafe.de/",
+    "description": "Breakfasts, cakes & coffee, plus light bites & local apple wine, at a classic, Viennese-style cafe."
+  },
+  {
+    "id": "ChIJCVhqVAEMvUcRszJlXxgJvww",
+    "name": "Café im Liebieghaus",
+    "address": "Schaumainkai 71, 60596 Frankfurt am Main",
+    "latitude": 50.1020121,
+    "longitude": 8.6718295,
+    "rating": 4.4,
+    "reviewCount": 778,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMYttF_iPHtfalrh-tEzhLkEha99B7D1qSDukNZ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 605098292",
+    "website": "http://www.liebieghaus.de/cafe-im-liebieghaus",
+    "description": "Cozy museum cafe with courtyard tables, serving salads & sandwiches, plus coffee & homemade cakes."
+  },
+  {
+    "id": "ChIJG2MvRQANvUcRAIsAi1CVrwM",
+    "name": "Sunny Side Up Sachsenhausen",
+    "address": "Hans-Thoma-Straße 1, 60596 Frankfurt am Main",
+    "latitude": 50.1039521,
+    "longitude": 8.6787302,
+    "rating": 4.7,
+    "reviewCount": 155,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipPcFThQDIPAjGZLg3UxJL7je1V6BU9cftCgnkqH=w800-h500-k-no"
+    ],
+    "phone": "+49 69 27243140",
+    "website": "https://www.sunnysideup-ffm.de/"
+  },
+  {
+    "id": "ChIJ7ejvu4oNvUcR5SPMHa1R1Pk",
+    "name": "CafeTasse",
+    "address": "Wallstraße 10, 60594 Frankfurt am Main",
+    "latitude": 50.1050747,
+    "longitude": 8.6889484,
+    "rating": 4.9,
+    "reviewCount": 170,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcl9yeAUM1J2ieS0x4vyEy7vuv7zQUaAU5v3xOtYsdcNkRELfnnih5E39fqhWgVUHDlg2y048bz_QaIIYYWbb7LumDUa_aFujjuZE7u0mk1S7LKe_hJZOu_F8UriuKiACxaouzfA=w800-h500-k-no"
+    ],
+    "phone": "+49 69 71165150",
+    "website": "http://www.cafetasse-ffm.de/"
+  },
+  {
+    "id": "ChIJPfWnRakOvUcRbdhcWnAp3XQ",
+    "name": "Bunca Barista & Caterer",
+    "address": "Kirchnerstraße 4, 60311 Frankfurt am Main",
+    "latitude": 50.1111275,
+    "longitude": 8.6752523,
+    "rating": 4.6,
+    "reviewCount": 1138,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqfWzZ_MijnPu5Hz1-Lbjgxdj1FNDzmnLzZIztMnZp7dfVICSuMHaYe4RPqzUU81AMW_uF_0pX6b028o5zmf7G_jBjTdYRDycnoLkwomqLJ75QUbEOs4WIRX4D9NBLYCD6F_mTb=w800-h500-k-no"
+    ],
+    "phone": "+49 69 96751659",
+    "website": "https://bunca.de/",
+    "description": "Snug artisanal-coffee specialist, for espresso drinks with house-roasted beans & gourmet pastries."
+  },
+  {
+    "id": "ChIJv12D5rYPvUcRxcM7FVTCLGI",
+    "name": "Café Under Pressure",
+    "address": "Große Rittergasse 20, 60594 Frankfurt am Main",
+    "latitude": 50.1056554,
+    "longitude": 8.6926005,
+    "rating": 4.7,
+    "reviewCount": 595,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoR1bjDWbgfn6Ja6is31hGcZT3LrlSFf7p9qBms96BpAkaRLtCGvdy2fadfdkmU1ftQyCyAwKVPraVobk-ce4JZcShs8n8ON8JihJoFai5YryfRhrCeGRF5MupXl1-ISGD3112dpw=w800-h500-k-no"
+    ],
+    "website": "https://www.instagram.com/cafeunderpressure"
+  },
+  {
+    "id": "ChIJvdY5EVsNvUcRUfEAHsN2zOA",
+    "name": "Café Wacker Schweizer Straße",
+    "address": "Schweizer Str. 18, 60596 Frankfurt am Main",
+    "latitude": 50.1043724,
+    "longitude": 8.6784472,
+    "rating": 4.1,
+    "reviewCount": 846,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer450ijeucMATcQtG7M9x0kO1qSNEZq_LW2W3VlWi-SUBP6KLJLh8ATsjcb6G8yXMISdQOfDhSpxCcwHUoAeoSj8n-aLXCBjxL03WbALknf8xDlLNRlrF1UcVPfHllcldLCQgHZ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 66058230",
+    "website": "https://www.wackers-kaffee.com/cafes%23SchweizerStrasse"
+  },
+  {
+    "id": "ChIJgSHmza4NvUcRxlt0Xyz1hl4",
+    "name": "bao's Cafe",
+    "address": "Diesterwegstraße 10, 60594 Frankfurt am Main",
+    "latitude": 50.1012971,
+    "longitude": 8.6818986,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7wZ2TYq0a_LweyEwscs-PQ&cb_client=search.gws-prod.gps&w=800&h=500&yaw=226.21638&pitch=0&thumbfov=100"
+    ],
+    "website": "https://baos-cafe.de/"
+  },
+  {
+    "id": "ChIJo4Mfz_INvUcRjNmklalYHNQ",
+    "name": "MONZA Caffè & Bar - Schweizer Straße",
+    "address": "Schweizer Str. 73, 60594 Frankfurt am Main",
+    "latitude": 50.100475,
+    "longitude": 8.6820078,
+    "rating": 4.7,
+    "reviewCount": 368,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweon6PuunQzmObwW-GHuIBWKKbRmWuj2OeJvqnd50WFz7j8dlLHA7q7xGJ_TjQ2jNPswvFscUImrKLfsG_pqToDqkmoVwlR_qFjBtkK9aNK3ACX52Kw1uyF7QT17dMOw2lmatLhX=w800-h500-k-no"
+    ],
+    "website": "http://www.monzacoffee.com/"
+  },
+  {
+    "id": "ChIJPyWOYhwMvUcR4XsmlxAGWc0",
+    "name": "Café Fellini",
+    "address": "Diesterwegstraße 1, 60594 Frankfurt am Main",
+    "latitude": 50.1018574,
+    "longitude": 8.6813262,
+    "rating": 3.7,
+    "reviewCount": 254,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweom5RyT4Fi5CnXfkX_huhHmxkBrwrNOxwlOe4B7Mx9gtQhaXShwKAnhaJDxYQBQFkzaMohYgCs81V6W_lS4cMlI84Nbh2tofEZJsg2mJN4CxFD4LGc1tneE4juwsSr1ZeGseH5i=w800-h500-k-no"
+    ],
+    "website": "https://www.fellinifrankfurt.com/"
+  },
+  {
+    "id": "ChIJux_PyA0MvUcRcP5YJB5Q7jI",
+    "name": "Cafe Ernst",
+    "address": "Stresemannallee 75, 60598 Frankfurt am Main",
+    "latitude": 50.0907801,
+    "longitude": 8.6720314,
+    "rating": 4.2,
+    "reviewCount": 169,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepGujFVNhJXO0IoHJfjdjuJW2lV1EJr0PDjNOXrfAXbuKqFGED7uNUSyADo6S_dVWv_wpHzlJWgC_Lbsh2TThmQ8MZVZhxuKd5gIvDSeDZurrMiufSnXOVy4jyRDms94DkEHwS_=w800-h500-k-no"
+    ],
+    "phone": "+49 69 40769292",
+    "website": "https://cafe-ernst.de/"
+  },
+  {
+    "id": "ChIJUys3MdANvUcRjZnNFKdXSM4",
+    "name": "Baguette Jeanette",
+    "address": "Schweizer Str. 52, 60594 Frankfurt am Main",
+    "latitude": 50.1023862,
+    "longitude": 8.68004,
+    "rating": 4.2,
+    "reviewCount": 150,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcMOU8RPj-34EJQavfBYyyrZMi8ukFb_k9sYqcUjoIbrYUypngIn9fgsgZZ-xfm9XfsK1fLep01L6JB8tjRlnpC0gF-JfuVJSLAne7L-alrhMFIC4Jn4cvIJOsy43zCKDJNrzqQE1YvuVM=w800-h500-k-no"
+    ],
+    "phone": "+49 2578 6666",
+    "website": "https://www.baguette-jeanette.de/"
+  },
+  {
+    "id": "ChIJNexK8yEMvUcR5dgNxbmqFjA",
+    "name": "Café Am Berg",
+    "address": "Hühnerweg 2, 60599 Frankfurt am Main",
+    "latitude": 50.1006187,
+    "longitude": 8.6924401,
+    "rating": 4.2,
+    "reviewCount": 96,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipPM5kyn7DmjM8K3ZdcEWia-ksytYTvScbFBhO1v=w800-h500-k-no"
+    ],
+    "phone": "+49 69 76026495"
+  },
+  {
+    "id": "ChIJbQZk-gIMvUcRFNjlH-5K7tI",
+    "name": "Café im Museum für Kommunikation",
+    "address": "Schaumainkai 53, 60596 Frankfurt am Main",
+    "latitude": 50.1042727,
+    "longitude": 8.6759734,
+    "rating": 4.3,
+    "reviewCount": 48,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoMjDmilZURM_0H-hOi6Zico4o17pmZIMUlOrgE7DhoIzQzEYeajFagNqsj_e1HyKYpTvWtoVvk6I-hRTL2ZYsAl2EqW9yHucYHj0gg09RUrOIMH0UQIyFK-zIvL6SG9UzDmtg5ew=w800-h500-k-no"
+    ],
+    "website": "http://www.genussfee.de/museumscafe/"
+  },
+  {
+    "id": "ChIJZz8kR7QLvUcRQz_b6ADWDP8",
+    "name": "Kaffeebar Alfredo Audimax (Bahlmano)",
+    "address": "Theodor-Stern-Kai, 60596 Frankfurt am Main",
+    "latitude": 50.0953791,
+    "longitude": 8.6599801,
+    "rating": 4.1,
+    "reviewCount": 10,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqlVp4iLUXpSnwVucdNNDIcLqRmYl8E_JqmMpDg4kw426KDfXmOnGzAORUdNIS5lbQydd1C1est5KEkLWOaFUhatdCaKe9-hw_iu-_d4NI3TjJEgPE7PQZe8PpryBuo13UFSIsB=w800-h500-k-no"
+    ],
+    "phone": "+49 180 1 788336",
+    "website": "https://www.studentenwerkfrankfurt.de/essen-trinken/einrichtungen/goethe-universitaet/campus-niederrad/kaffeebar-alfredo-audimax/"
+  },
+  {
+    "id": "ChIJt74HnJ0Tc0ERq3FKQhvQap4",
+    "name": "Naschmarkt am Dom",
+    "address": "Domstraße 4, 60311 Frankfurt am Main",
+    "latitude": 50.111401,
+    "longitude": 8.684768,
+    "rating": 4.6,
+    "reviewCount": 224,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepHLaaaBBOQvyq3cR_8b2pQiUBbbKyxfI7OzKhvZn9s4TVQeTcqZa7kNavwmUMNSGwKJkdFJT3lYOm-T2uNMu0xjLRWEoLleX4fowSZsqk4UpHeuDLFznoQlCdhI1kfrOywrJwR=w800-h500-k-no"
+    ],
+    "phone": "+49 170 5229380",
+    "website": "https://www.instagram.com/naschmarktamdom/%3Fhl%3Den"
+  },
+  {
+    "id": "ChIJ0b344JQNvUcRSWgS_hRlezQ",
+    "name": "Café im Städel Museum",
+    "address": "Schaumainkai 63, 60596 Frankfurt am Main",
+    "latitude": 50.1032051,
+    "longitude": 8.6736427,
+    "rating": 4.2,
+    "reviewCount": 29,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoJZ3vWl8zO6qW3DzhqJoc8_FYIbB_WL1LXyv4R2FvOSvrmmr6Bbab6lMGPKuj82txGjhFIs3-GAMO4c3TQgF97JTcV1mgq31nDfwaGKUiYiqnHdcpl6DLSsTF0i3E2bA7I609lWd1JGilK=w800-h500-k-no"
+    ],
+    "phone": "+49 69 605098197"
+  },
+  {
+    "id": "ChIJXRYDTogNvUcROKztRTcxda8",
+    "name": "We love Cupcakes",
+    "address": "Gartenstraße 35, 60596 Frankfurt am Main",
+    "latitude": 50.1029161,
+    "longitude": 8.6789107,
+    "rating": 4.8,
+    "reviewCount": 326,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerNAjOPXO9TuFVHjadtCOwX_-L3eGl9GuH4vqAqvcsQNvpVlAo8tSDrxVQr6uhEx4fCeDMSGDZphkcyMAyw9Nbftvw0j5_74sZ7UxUH-oJff_RmPEv6aT09TDkMxlByHvrMub92uQ=w800-h500-k-no"
+    ],
+    "phone": "+49 1577 0373917",
+    "website": "http://www.welovecupcakes.de/"
+  },
+  {
+    "id": "ChIJSTIg1KgOvUcRRUtOXg9QWd8",
+    "name": "Cafe Karin",
+    "address": "Großer Hirschgraben 28, 60311 Frankfurt am Main",
+    "latitude": 50.1114121,
+    "longitude": 8.6779441,
+    "rating": 4.0,
+    "reviewCount": 2547,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq1xHP3MFmdgoDeaf7D9vaRa2w2nhOpUz8OkiF7G8kDGtzDZXhCLD7DSPPpFsiijYmH_C0TnhZUYB28tyT-QQ-k3isQzK6vmWK4TyXLmImEs83d5eD6hrxP7jTAzmudr8f_kxPdzA=w800-h500-k-no"
+    ],
+    "phone": "+49 69 295217",
+    "website": "https://www.cafekarin.de/",
+    "description": "Expansive breakfasts plus salads & cakes at a classic marble-tabled cafe, with sidewalk seating."
+  },
+  {
+    "id": "ChIJ6yVQIB4MvUcRZF7Ewx9wAAc",
+    "name": "DIE BRÜCKE",
+    "address": "Brückenstraße 19, 60594 Frankfurt am Main",
+    "latitude": 50.1056598,
+    "longitude": 8.6876532,
+    "rating": 4.7,
+    "reviewCount": 334,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweryYsyufRi0JPpkkrub8KjI5kadCr5f63vblogSpvEbe4Mcz1M03Bi9xct8lmuzRb0jyD8F6JqYeq9EB6UeSdXoYT0RzDINTFaCM2eZWhatNBXmBc_t_n80pQKH4vwzXTfrqxWw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 611304",
+    "website": "https://www.diebruecke-frankfurt.de/",
+    "description": "Homey destination with a chill ambiance offering thoughtfully sourced dishes, coffee & wines."
+  },
+  {
+    "id": "ChIJZdh3gwYMvUcRdcK-68lwIgM",
+    "name": "Ihr frisches Backhaus",
+    "address": "Gartenstraße 115, 60596 Frankfurt am Main",
+    "latitude": 50.0998279,
+    "longitude": 8.6705309,
+    "rating": 4.4,
+    "reviewCount": 99,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoiXQw6YZFUOXWGSuuVXiThulerfFSNtXlTW6H0OugaeCEo5_5S7XI9aju76qdmFOQBxe1IyodvpkIltH9DifXazebhXbJoeDyRxVJzGQirjdNXt4-QYKFcttzIobB3QDe1LDmQTQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 69763848",
+    "website": "http://ihr-frisches-backhaus.de/"
+  },
+  {
+    "id": "ChIJ3_BewAIMvUcRklaCrcTof3o",
+    "name": "Studio DFF (Museumscafé)",
+    "address": "Schaumainkai 41, 60596 Frankfurt am Main",
+    "latitude": 50.1050149,
+    "longitude": 8.6777227,
+    "rating": 4.5,
+    "reviewCount": 55,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerqF5hW227ERWhGOpkBCJnUEyXxAf1YwDEHL5rRnzdl0XT5IPeL3LcHZzA4lWgDv8CeNorHZlxl1Ks_gUfp8pFyaqeSVPzyRWVvVTnybWlOLEoQYnliuY6ysnNAv_GrvrVAs3lCNQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 961220280",
+    "website": "https://www.dff.film/besuch/besucherinformationen/filmcafe/"
+  },
+  {
+    "id": "ChIJ4z4HbgANvUcRwTeKB5EsTLM",
+    "name": "the dune",
+    "address": "Paul-Ehrlich-Straße 9, 60596 Frankfurt am Main",
+    "latitude": 50.0976011,
+    "longitude": 8.6688633,
+    "rating": 4.8,
+    "reviewCount": 16,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOZ-a9sgEwlCXMAcRTfymH_yxoy7xH_mSrKdWIi=w800-h500-k-no"
+    ],
+    "phone": "+49 69 6051356010",
+    "website": "https://www.theflorentin.com/de/kulinarik/the-dune"
+  },
+  {
+    "id": "ChIJrVeghBwMvUcRB0NO7KVMaEc",
+    "name": "Paris’ Bar",
+    "address": "Oppenheimer Landstraße 27, 60596 Frankfurt am Main",
+    "latitude": 50.1012122,
+    "longitude": 8.6807237,
+    "rating": 4.6,
+    "reviewCount": 328,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipM8rmcK7ExSB7qrZeM1iTYmHy3LOHFn2zwW36Rd=w800-h500-k-no"
+    ],
+    "phone": "+49 69 96233811",
+    "website": "http://www.parisbar-frankfurt.de/",
+    "description": "Relaxed locale with a curated international wine list & sophisticated bar bites, plus a terrace."
+  },
+  {
+    "id": "ChIJEwLwzagOvUcRM4Ua4qmCOJY",
+    "name": "roseli Café - Bar - Frankfurt am Main",
+    "address": "Weißadlergasse 9, 60311 Frankfurt am Main",
+    "latitude": 50.1114527,
+    "longitude": 8.6785421,
+    "rating": 4.5,
+    "reviewCount": 889,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerUAcmo8rPiH_dYrxFmOL4_Qe02irkiJcEmsMe1HmDxVW0D3PG8PjZS4GYkpvJ16I2EHftZxtxzof8MM7NTtqZtT3GgPIHrJeEnyXwrbA4gouzlsoxtcQo204ZogPjNiJTyHAOnqQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 24446660",
+    "website": "https://roseli.de/",
+    "description": "Breakfast eggs, salads, quiches & pasta dishes, plus cakes, in a bright, simple cafe with a terrace."
+  },
+  {
+    "id": "ChIJ-6QZhxsMvUcRpeHz0vV1CBo",
+    "name": "La Maison du Pain Schweizer Strasse",
+    "address": "Schweizer Str. 63, 60594 Frankfurt am Main",
+    "latitude": 50.1008998,
+    "longitude": 8.6817114,
+    "rating": 4.0,
+    "reviewCount": 1097,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipNKZtFsNK2ty4WSdvrwe_mQGypsFUFDMW331LE2=w800-h500-k-no"
+    ],
+    "website": "http://www.lamaisondupain.com/"
+  },
+  {
+    "id": "ChIJfyiOfhsMvUcR7PlukwyCXQ4",
+    "name": "Brasserie du Sud",
+    "address": "Oppenheimer Landstraße 31, 60596 Frankfurt am Main",
+    "latitude": 50.1009349,
+    "longitude": 8.6806933,
+    "rating": 4.7,
+    "reviewCount": 387,
+    "priceLevel": 3,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOXpbgKFWhTSOYsmdNzKTh-M5ithfwXlJceHnP-=w800-h500-k-no"
+    ],
+    "phone": "+49 69 615999",
+    "website": "http://brasserie-du-sud.de/"
+  },
+  {
+    "id": "ChIJQb4UwRsMvUcRqW_Yar3zkKQ",
+    "name": "Edelweiss",
+    "address": "Schweizer Str. 96, 60594 Frankfurt am Main",
+    "latitude": 50.0995006,
+    "longitude": 8.6822888,
+    "rating": 4.6,
+    "reviewCount": 983,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweocntG79qQZM7f3qc2r1F9lbl_by6SK0CnGK9uJEAvB_sJfCarFrgAm8oadtC4X2uZS8arXmO1u6nWINweoYvUldF1mOLdO7g1Q-ozAJIAOfUSSwg8JhdJ5Oe2pVBUTASJh6ke6=w800-h500-k-no"
+    ],
+    "phone": "+49 69 619696",
+    "website": "http://www.edelweiss-ffm.de/",
+    "description": "Soups, schnitzel & goulash based on Austrian recipes, plus Alpine wines & beers on a sidewalk patio."
+  },
+  {
+    "id": "ChIJ8YQWK68OvUcR9phueQhgaHI",
+    "name": "Walden Frankfurt",
+    "address": "Kleiner Hirschgraben 7, 60311 Frankfurt am Main",
+    "latitude": 50.1117239,
+    "longitude": 8.6782541,
+    "rating": 4.4,
+    "reviewCount": 1246,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqliUzxAnGC0HW6qDcPKjybjjuG1aePvGrAS-O6gBKIfB-cN1i9gEzkhsi-7MMquMYhrW9qB4DeoCYQCASp9dj4Q9qrIFaxW-SzpRbdBnDSjT6h78n0sTv1pSqSk7QzkPNhoGaI=w800-h500-k-no"
+    ],
+    "phone": "+49 69 92882700",
+    "website": "http://www.walden-frankfurt.com/",
+    "description": "Breakfasts, lunch dishes like flammkuchen & cakes, in bright, stylish cafe or on a large terrace."
+  },
+  {
+    "id": "ChIJ24K11mYNvUcRuQEdAQjrsqE",
+    "name": "Café Doña Victoria by WISAG",
+    "address": "Carl-von-Noorden-Platz 5, 60596 Frankfurt am Main",
+    "latitude": 50.0973728,
+    "longitude": 8.6635599,
+    "rating": 4.6,
+    "reviewCount": 33,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoQB6jDDi6R6jUBi-YJ8_GB0dIK-Qxl9o64rM9SSPxZf7NcG56Mie6OwImqNzfGYkAFzruiYjDjtJFidWkx0BLbGEOb2Jyilt8SY6V3XK7P0zPXIYhR4csxk7RQn09zEHsyKo5dsg=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJdbrPX00NvUcRib5hHGYFTUc",
+    "name": "Hamptons Eis & Café",
+    "address": "Schneckenhofstraße 7, 60596 Frankfurt am Main",
+    "latitude": 50.1015093,
+    "longitude": 8.6795734,
+    "rating": 4.9,
+    "reviewCount": 74,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMj9mG25YC1FpZK-vnhdZAl-XOyiuaIhMhQquzP=w800-h500-k-no"
+    ],
+    "phone": "+49 175 6968309",
+    "website": "http://www.hamptonseis.de/"
+  },
+  {
+    "id": "ChIJgSbgnBwMvUcRvAWFzrHvqv4",
+    "name": "36 Grad",
+    "address": "Oppenheimer Landstraße 36, 60596 Frankfurt am Main",
+    "latitude": 50.10134,
+    "longitude": 8.68025,
+    "rating": 4.3,
+    "reviewCount": 584,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipO3wKies0Zpu49iKcXa2Vajd71yZ6VJtAg6iTc7=w800-h500-k-no"
+    ],
+    "phone": "+49 69 56994389",
+    "website": "http://www.36gradfrankfurt.de/"
+  },
+  {
+    "id": "ChIJZ0e1zngLvUcRI4qMqLZQaGM",
+    "name": "Royal Cafe Bar",
+    "address": "Pforzheimer Str. 5, 60329 Frankfurt am Main",
+    "latitude": 50.1043478,
+    "longitude": 8.6631983,
+    "rating": 4.9,
+    "reviewCount": 35,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqAwFDWJEoDscGAF3ZDY4o7-wnb6h4XZ74_1wCnbKUg2jHUOHCe12LR_gsJ4Fq0VMV59UnfGjsuIAf-Ef7xaunLyLxVUtZVBIN8yCs-_RM14RENm2lBx21Aq79lLCQyXQc3UPQo=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJC04OlqYOvUcRwoek9rhk-hI",
+    "name": "Metropol am Dom - Café & Restaurant",
+    "address": "Weckmarkt 15, 60311 Frankfurt am Main",
+    "latitude": 50.1102544,
+    "longitude": 8.6855953,
+    "rating": 4.1,
+    "reviewCount": 1876,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipN8rlEf6S06g1OSm8YFLFm8p0pK-Ip106DwKf_m=w800-h500-k-no"
+    ],
+    "phone": "+49 69 288287",
+    "website": "http://www.metropolcafe.de/",
+    "description": "Roomy venture with a large terrace, offering light fare, coffee & treats from breakfast to dinner."
+  },
+  {
+    "id": "ChIJHcycmZ0Tc0ERmViIXyphFew",
+    "name": "Café OPITZ im Goethehaus",
+    "address": "Am Salzhaus 1, 60311 Frankfurt am Main",
+    "latitude": 50.111614,
+    "longitude": 8.677616,
+    "rating": 4.5,
+    "reviewCount": 260,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepN0T9mdvKD_k8VxJ6hkp2A7tLUxaZxaoLlO_4PgpbKLz2NjE_bN4ABZAibWZ0O-Vssv6rnU5yz72QMlvphtYtHMF8-Leeet11jCNHBCHT7Yw4QTahMv4AyuL35BxHiRFv-wYqX=w800-h500-k-no"
+    ],
+    "phone": "+49 69 47864966",
+    "description": "Bright, stylish stop for artisan chocolate & elegant cakes, with birdcage-inspired light fixtures."
+  },
+  {
+    "id": "ChIJQwp2eiIMvUcRBzK1EEeCfQM",
+    "name": "Gorillas and Cars Cafe` lounge - Mitsubishi Showroom",
+    "address": "Darmstädter Landstraße 98, 60598 Frankfurt am Main",
+    "latitude": 50.09844,
+    "longitude": 8.69077,
+    "rating": 4.8,
+    "reviewCount": 51,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweri-6ErK3JRfXsIYLWCpYHC-3uB6yGvT7UG2diCuKixM206uNvSxODB3iQZgHk3GZ7E6kFK0c9JUEzRpznaHNqql5nt1Fvb3DkwOLFlUHgDzXuPq4KkXWpwyOkn3x_Bujjjm-Akfw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 7880880913",
+    "website": "http://www.gorillas-and-cars.de/"
+  },
+  {
+    "id": "ChIJUVew8z0MvUcRERGHT_AKnhQ",
+    "name": "Cafe Ernst",
+    "address": "Mailänder Str. 8, 60598 Frankfurt am Main",
+    "latitude": 50.0915489,
+    "longitude": 8.6885185,
+    "rating": 3.9,
+    "reviewCount": 76,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqyke_oDj4AalVTNAk1dAnOha-ijxzQCr6mioeom0JWSm3_NevuTVPQcg4HRa0DsYHEQ3SbMtUAmS6DCxpEfk6u2OXHYD_vOGtygSdvvarXAntDXoPPLfnCftiW6FYz1KrAHG9c=w800-h500-k-no"
+    ],
+    "phone": "+49 69 69716647",
+    "website": "https://cafe-ernst.de/"
+  },
+  {
+    "id": "ChIJ4QMuI60OvUcRj9KycCBoTmA",
+    "name": "Chinaski Studio & Bar",
+    "address": "4M8C+55, Bockenheimer Landstraße 1, 60325 Frankfurt am Main",
+    "latitude": 50.1153362,
+    "longitude": 8.6704961,
+    "rating": 4.6,
+    "reviewCount": 889,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer-xbfnSX-Gwy-UurgmIkyEaRudw72Qk-q4pMuwsd0OuEms57erco9U2KN_7VvWh-8GTVePsDUJUytbuMkDCJ0g3dTN72bhOevo0mBO9ZEVn8gvgC2CjgMsPalbXHCG7G-lv7ZMog=w800-h500-k-no"
+    ],
+    "phone": "+49 176 34488349",
+    "website": "http://www.chinaskistudiobar.de/",
+    "description": "Easygoing restaurant with funky decor serving pancakes & salad bowls, plus cocktails."
+  },
+  {
+    "id": "ChIJedkBFDwPvUcRG4uv8i_nOrU",
+    "name": "Frazer Coffee",
+    "address": "Kirchnerstraße 6, 60311 Frankfurt am Main",
+    "latitude": 50.1113669,
+    "longitude": 8.6751007,
+    "rating": 4.8,
+    "reviewCount": 169,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwernpMfXo_YtMI-DtEWNC_e7MW_Awy2qNgekXR7K8kNI07p1AfxSHV7VB7EbPGEwZhcXgAmdx3cjtS9TKkeKl4-IyABT5EDkAKF_ulNm3x2PSA9xpxfhI_90peDBLSgyX_ogUYKV=w800-h500-k-no"
+    ],
+    "phone": "+49 69 15390850",
+    "website": "https://www.facebook.com/pages/category/Coffee-Shop/Frazer-Coffee-163279230360897/"
+  },
+  {
+    "id": "ChIJezXqAyoNvUcRWN2r3_ma6PQ",
+    "name": "Backhaus Schröer - Fachgeschäft HIT Mörfelder Landstr (im HIT Markt)",
+    "address": "Mörfelder Landstraße 129, 60598 Frankfurt am Main",
+    "latitude": 50.0951567,
+    "longitude": 8.6823853,
+    "rating": 3.0,
+    "reviewCount": 19,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepqONwmGqsdM_pBZezgJ-AfRgKiTPIOoo_UgHi5LMbQwqTyyoSy9sbgSOxMcPOEREEMBsyxMYm9nWnl60A8pB-IOAaabDPQkTEHnEHJnGjzQ1XdASBbYS36wurIDBZLpbPdYQ8msJa2HO1J=w800-h500-k-no"
+    ],
+    "phone": "+49 6134 7176915",
+    "website": "https://www.backhaus-schroeer.de/fachgeschaefte/"
+  },
+  {
+    "id": "ChIJRUCk2KUOvUcRmuIompZyYdQ",
+    "name": "IIMORI Patisserie",
+    "address": "Braubachstraße 24, 60311 Frankfurt am Main",
+    "latitude": 50.1113637,
+    "longitude": 8.6830434,
+    "rating": 4.0,
+    "reviewCount": 3124,
+    "priceLevel": 3,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweph1QkzCroXABxH7d2O3SiYcRGl3m_bLSipiEPfQyAWWymyjKa_lpyjmE18NIZC-aV6c7zCdRgwcpwfsxEWO94DJF9K2GbBVbLL21A7npXH6UDFfM3B5Wv3uzKz73yqt-uz_pAn=w800-h500-k-no"
+    ],
+    "phone": "+49 69 97768247",
+    "website": "https://iimori.de/patisserie/",
+    "description": "Coffee, delicate desserts & cuisine blending Japanese & French flavors in elegant surrounds."
+  },
+  {
+    "id": "ChIJXcJg1VUPvUcRE0eI9oNSJNo",
+    "name": "Toastado",
+    "address": "Münchener Str. 13, 60329 Frankfurt am Main",
+    "latitude": 50.1079602,
+    "longitude": 8.6710045,
+    "rating": 4.7,
+    "reviewCount": 149,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwercQSx1VKOILlSJAfNgykSAzIN8o8AfRTJY9clkvafj-H9N6oO9fPEaV0M_RGGINjvPeBeW4SRS1ia7hK7oEZJrfRTiUGnXtqBZ5rYZbznjARLZHPB21Rz-HgCG-qto24-l-_8=w800-h500-k-no"
+    ],
+    "phone": "+49 1514 7878470",
+    "website": "http://www.toastado.de/"
+  },
+  {
+    "id": "ChIJG3pTXwkNvUcRb3-HNNAYGr0",
+    "name": "Café Heimat",
+    "address": "Unter den Kastanien 14, 60596 Frankfurt am Main",
+    "latitude": 50.0918724,
+    "longitude": 8.6687057,
+    "rating": 5.0,
+    "reviewCount": 2,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JEbHXwMPV4gxfWNp5qDJ_g&cb_client=search.gws-prod.gps&w=800&h=500&yaw=127.50766&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJmz-5eqcOvUcRlmy4-7izDNo",
+    "name": "Café Vier Jahreszeiten",
+    "address": "Schulstraße 31, 60594 Frankfurt am Main",
+    "latitude": 50.1066882,
+    "longitude": 8.6835978,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sZpV74MpVoGyfncBnYxSKg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=173.52188&pitch=0&thumbfov=100"
+    ],
+    "phone": "+49 69 66051607"
+  },
+  {
+    "id": "ChIJR6Dhu7cPvUcRKp8od2Yq2I8",
+    "name": "Moenus - Frankfurt am Main",
+    "address": "Markt 40, 60311 Frankfurt am Main",
+    "latitude": 50.1106746,
+    "longitude": 8.68306,
+    "rating": 3.6,
+    "reviewCount": 595,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqCz7agYwfocnmV15rKT4eB4cSjl0IR4DgaaJ_ntkBw5162nCoNhTP2xtUth9KGdvbKocw7_mYh0rK7iC17D9lmt2mE0OUz0HZ7PW9vGgdqnGIUw6Q_z68BuR-4fGaHvrM2FgB2=w800-h500-k-no"
+    ],
+    "website": "https://yellow.pages.wwwcafe.de/moenus/"
+  },
+  {
+    "id": "ChIJmVj1Q3YPvUcRk4bT1r8bVXM",
+    "name": "Café Frankfurt",
+    "address": "Saalhof 1, 60311 Frankfurt am Main",
+    "latitude": 50.1094266,
+    "longitude": 8.6825956,
+    "rating": 4.6,
+    "reviewCount": 18,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepuOSO46o5PUy-5t0Gm31Ob-TBXYoZCbSWvmmq9rb9PFbb_QG-x3GuzjMcb85NOc5dGheI7K8EoChyldS7NZdWVsgozBlFeOZLljRFbmYhz2SSIgIj1r7exeminEeC3VDDru2aWQQ=w800-h500-k-no"
+    ],
+    "website": "http://cafe-im-historischen-museum.de/cafe-frankfurt/"
+  },
+  {
+    "id": "ChIJZ8U9nKoOvUcRwpGQ0MfUxn4",
+    "name": "Irfan",
+    "address": "Münchener Str. 36, 60329 Frankfurt am Main",
+    "latitude": 50.1074438,
+    "longitude": 8.6687393,
+    "rating": 4.7,
+    "reviewCount": 21,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepFrA9p7lU9LwVg59Gvrz2IouptA46vjUWmLDMPaBq64gvyfZoLPFO8FlBnqo63q_Fb4k6JZzRRYJ4kavLYYH_oAIAxDn1l6yHa3GmVS7YEFMIoWPrxWQZvzq3KFEIO5Eb9XsGX=w800-h500-k-no"
+    ],
+    "phone": "+49 69 27108959"
+  },
+  {
+    "id": "ChIJVSpzBY8LvUcRSccyBGFmMbc",
+    "name": "Floral Cafè",
+    "address": "Triftstraße 18, 60528 Frankfurt am Main",
+    "latitude": 50.085459,
+    "longitude": 8.647817,
+    "rating": 4.7,
+    "reviewCount": 295,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoWU6G1Qh2o5zQ-rrgodCA9yn_gps2PB7gTk2QrSVEho52kuabempdAAr9OfN-g4QUMq0TJPhy4pjdicMrffoAd1fAYywSfMGGHKtgiKwlrwUOzGnu006xyLRowT6twmWe_ghlE=w800-h500-k-no"
+    ],
+    "phone": "+49 69 58609277",
+    "website": "https://www.instagram.com/floralcafe.ffm/profilecard/%3Figsh%3DOXpreGhwZXQ1aXd3"
+  },
+  {
+    "id": "ChIJp7eqVZILvUcRRVDszNBZAXM",
+    "name": "Café Morgenstern",
+    "address": "Bruchfeldstraße 31, 60528 Frankfurt am Main",
+    "latitude": 50.0866666,
+    "longitude": 8.6465494,
+    "rating": 4.8,
+    "reviewCount": 1975,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqITMgzT2MmD9ih4hlMsIcVbbGg1oXI7k4txcMMB1wk8jq6gwOe2GzW0nU3UJTspYH599xH461pajl1triLHE9AUfpRkhImv1qWAkB_QrYKvb-gkGPyXh0MsXxRoc2XkemqWcrVGNNnpz8=w800-h500-k-no"
+    ],
+    "phone": "+49 177 5718548",
+    "website": "https://www.instagram.com/cafe_morgenstern/"
+  },
+  {
+    "id": "ChIJYxlvBZMLvUcRL466x7G89aA",
+    "name": "Niederräder Café Bar",
+    "address": "Bruchfeldstraße 75, 60528 Frankfurt am Main",
+    "latitude": 50.0864183,
+    "longitude": 8.6425728,
+    "rating": 4.1,
+    "reviewCount": 26,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KJmvbrm6EG-xruXK95PVqw&cb_client=search.gws-prod.gps&w=800&h=500&yaw=192.48343&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJ6Rw2SZYLvUcRZtCFkpf9p9U",
+    "name": "Cafe Zoller",
+    "address": "Schwarzwaldstraße 44, 60528 Frankfurt am Main",
+    "latitude": 50.085572,
+    "longitude": 8.6469567,
+    "rating": 4.7,
+    "reviewCount": 609,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipM0RyNwXKGEhB8fRlwVyvIHxD9l4SOaS2HQ_4Ut=w800-h500-k-no"
+    ],
+    "phone": "+49 69 79219520",
+    "website": "http://www.cafe-zoller.de/",
+    "description": "Cheery option serving classic breakfast fare, sandwiches & homemade cakes, plus specialty coffee."
+  },
+  {
+    "id": "ChIJkwj3dZILvUcRPXRUj1Lshys",
+    "name": "Star Lounge Sportsbar & Café",
+    "address": "Triftstraße 28, 60528 Frankfurt am Main",
+    "latitude": 50.0847673,
+    "longitude": 8.6463164,
+    "rating": 4.7,
+    "reviewCount": 109,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMrLXj6WNpLAuMsWu0Z29cC9lGAOV5MpFG3cpUS=w800-h500-k-no"
+    ],
+    "phone": "+49 176 84274987"
+  },
+  {
+    "id": "ChIJ7dAjjo0LvUcR59YBas37lnY",
+    "name": "Cafe Sülo",
+    "address": "Triftstraße 25, 60528 Frankfurt am Main",
+    "latitude": 50.0846683,
+    "longitude": 8.6470371,
+    "rating": 4.8,
+    "reviewCount": 5,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aFcVZE7GNXD2_8dhk1IAAQ&cb_client=search.gws-prod.gps&w=800&h=500&yaw=159.31471&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJx9pCmekLvUcRRs8eZXhFnJg",
+    "name": "KROQ - Croques & Coffee",
+    "address": "Schwarzwaldstraße 110A, 60528 Frankfurt am Main",
+    "latitude": 50.0826131,
+    "longitude": 8.6513018,
+    "rating": 5.0,
+    "reviewCount": 34,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepwQX6gyz8hYa7vh3XdWpHyeQ7-5jJWRsMKaCAJI1Er7peNuX7WMPUKanNtHadJHjzGW9MrscRe9zeO_MaYgIxbG0yTbqRpIrsqWkEhiPzyYs0V5Qs6lTV24fFwYYsV6uzBXDoV2yn28xnJ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 48009919",
+    "website": "http://www.kroq.shop/"
+  },
+  {
+    "id": "ChIJKzzwDo0LvUcRtLVyHyjM5Tw",
+    "name": "Café-Pastelaria Estrela Doce",
+    "address": "Triftstraße 10, 60528 Frankfurt am Main",
+    "latitude": 50.0859162,
+    "longitude": 8.6487157,
+    "rating": 4.6,
+    "reviewCount": 303,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweowWkDmtgR2O7vqeIrXWZItMG0KxwwMtD9UYzd21Gbt_qGcA3LVW4LLoio2X71FtmejuSXcdJp5dp4pfDrxO8Y_VCX54ujmWuTR2Jf9tbLB6M5LU0k-boLpeL5nrVNYC6lum9o=w800-h500-k-no"
+    ],
+    "phone": "+49 69 67739101",
+    "website": "http://www.estreladoce.net/"
+  },
+  {
+    "id": "ChIJH5m5l5ILvUcRWhiVfdB9s6Y",
+    "name": "Café 56",
+    "address": "Bruchfeldstraße 56, 60528 Frankfurt am Main",
+    "latitude": 50.0868388,
+    "longitude": 8.6459439,
+    "rating": 4.0,
+    "reviewCount": 2,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=srGk5Qc9jIENNSfYyqA1Eg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=347.9652&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJb-Ewf-ILvUcRGU2FBk75Lp0",
+    "name": "The Coffee Club 29 - Café Frankfurt am Main",
+    "address": "Europa-Allee 29, 60327 Frankfurt am Main",
+    "latitude": 50.1084295,
+    "longitude": 8.6498372,
+    "rating": 4.6,
+    "reviewCount": 536,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoaoqWyWAtjGm31pMkXUBQJxmblM7JXFevDMUwHpVnrM-eNfTMMWG_q3KkNI84CVZkFJ_zO-ZJGILwZlsy39efcQaoPRdLuwhvblcC-fmlg27gz-Xw9E3BOlFpKvrBikH2cKu69=w800-h500-k-no"
+    ],
+    "phone": "+49 69 74225858"
+  },
+  {
+    "id": "ChIJe9ipCvILvUcR6iXQusdaO8U",
+    "name": "Studicafé",
+    "address": "Marienburgstraße 2, 60528 Frankfurt am Main",
+    "latitude": 50.0919361,
+    "longitude": 8.6484842,
+    "rating": 5.0,
+    "reviewCount": 4
+  },
+  {
+    "id": "ChIJldByVegPvUcRn23Un7GkWQE",
+    "name": "WHY! Specialty Coffee @ Midea Home Lounge",
+    "address": "Kaiserstraße 36, 60329 Frankfurt am Main",
+    "latitude": 50.1091247,
+    "longitude": 8.6707151,
+    "rating": 4.8,
+    "reviewCount": 520,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepKf2KSkZChFPbxZxzthUom3ou-ZxoWyu0M8941DOAEojqyD0RHXAfeVCRD8gdnQnzsWQqMfWJYfvGFPQxuBBUU-aLwIvBfp3QPBnHJDCyyq_CIewaneb5paneNL0L36h90F5Hbmg=w800-h500-k-no"
+    ],
+    "website": "http://www.whycoffee.de/"
+  },
+  {
+    "id": "ChIJU0JXUU0LvUcRzoNVPJnugm0",
+    "name": "Bäckerei Cafe Bibi",
+    "address": "Melibocusstraße 35-D, 60528 Frankfurt am Main",
+    "latitude": 50.0839561,
+    "longitude": 8.6387205,
+    "rating": 4.6,
+    "reviewCount": 73,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepep8RwkfAJpBEDLt2COZNR3DOQ7-_vyas673C7pCrbHQ_UFX2ZfwXwoV7UWV_1oPX2o_93TQg25thOpeOGxgDcDuabH1TLCjSHaXcG40dK3oSBONbWAgUPrITI2-xAPXZneRt5=w800-h500-k-no"
+    ],
+    "phone": "+49 69 67739551"
+  },
+  {
+    "id": "ChIJObgQBqsJvUcRIljwhjLcDrk",
+    "name": "Roots Café",
+    "address": "Mainzer Landstraße 105, 60329 Frankfurt am Main",
+    "latitude": 50.1085464,
+    "longitude": 8.6588709,
+    "rating": 4.9,
+    "reviewCount": 284,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepadtSIibGZrXnWE2tJ27_H4t9-mjKXrcusb_D5ACc-CDVPjqkVdVYFfJqQ_yGiMiW9S8k--rjUHDvv1X5Bx2QO0k7SZsYhfBUEMUL_BuDOjaVcVzadGvAn76c997bdme_4VfLL=w800-h500-k-no"
+    ],
+    "website": "http://roots-cafe.de/"
+  },
+  {
+    "id": "ChIJv3YjNowLvUcRB_lCqryCtFo",
+    "name": "C'est la Vie Café & Sportsbar",
+    "address": "Schwarzwaldstraße 79, 60528 Frankfurt am Main",
+    "latitude": 50.0840074,
+    "longitude": 8.6498803,
+    "rating": 3.8,
+    "reviewCount": 28,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOEKDvACsZslMH5drll42eH8ttbof62pyLThWLJ=w800-h500-k-no"
+    ],
+    "phone": "+49 174 4800000"
+  },
+  {
+    "id": "ChIJuZNjspILvUcRcib6EruVyXE",
+    "name": "die Fleckenbühler | Bäckereicafè",
+    "address": "Schwarzwaldstraße 1, 60528 Frankfurt am Main",
+    "latitude": 50.0880154,
+    "longitude": 8.646369,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweocN3f4vGWrdLFKpirq5xI4egRJ6dg7L2F-e_qqrc31wHCwACXjCOYTJgjktKfxkXbggqjMuRnsyiogCaWk4zV_b2155zVQhnRC2-W7SarhkhkgiuK621dwTB1LVeXAwsdxh-ua=w800-h500-k-no"
+    ],
+    "phone": "+49 69 677354211",
+    "website": "https://xn--die-fleckenbhler-uzb.de/betriebe/cafe-niederrad/"
+  },
+  {
+    "id": "ChIJm0j5HVYJvUcRJmDiTuRi6Pc",
+    "name": "Caffeppuccino",
+    "address": "Ludwigstraße 8, 60327 Frankfurt am Main",
+    "latitude": 50.1080172,
+    "longitude": 8.6589141,
+    "rating": 4.8,
+    "reviewCount": 340,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepX1OAH5ktAj7J-jBm7Wd0jvW_9HXtJGOYs9GuZrcCUksKRQhdu9c-ZtSgCY72F2V9zlIUkuEHvHnOksYbt9vosfjef0Y9w4QtY59o29OXZsdMP_ghdbj14aGrCfDhHc24RmoU1=w800-h500-k-no"
+    ],
+    "phone": "+49 69 26011887",
+    "website": "https://www.caffeppuccino.de/"
+  },
+  {
+    "id": "ChIJvwae96cLvUcRJF9a4fzadvM",
+    "name": "Cafe Ernst",
+    "address": "Bruchfeldstraße 33, 60528 Frankfurt am Main",
+    "latitude": 50.0866086,
+    "longitude": 8.6458624,
+    "rating": 4.1,
+    "reviewCount": 75,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipNjOEepUfV3UVkiTdKY3h8F-A-8EsEyqoAVnO26=w800-h500-k-no"
+    ],
+    "phone": "+49 69 36602590",
+    "website": "http://www.cafe-ernst.de/"
+  },
+  {
+    "id": "ChIJUWVHGo0LvUcR3-SIE0qjpms",
+    "name": "Sky Lounge",
+    "address": "Triftstraße 4, 60528 Frankfurt am Main",
+    "latitude": 50.0861751,
+    "longitude": 8.6493712,
+    "rating": 4.1,
+    "reviewCount": 245,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipPi0UZodpBJPxh1EvZoz-T8teD7jfr91hVpyvP0=w800-h500-k-no"
+    ],
+    "phone": "+49 69 67726639"
+  },
+  {
+    "id": "ChIJlfqhYWcJvUcRQT5WjDLHhuA",
+    "name": "VUX Coffee",
+    "address": "Mainzer Landstraße 121, 60327 Frankfurt am Main",
+    "latitude": 50.1081447,
+    "longitude": 8.6577423,
+    "rating": 4.7,
+    "reviewCount": 571,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcbToJv6gpsFjwSgtKNKCBhVP4u0FCmyJbUt0W4Lc1XineIjNO-75E7dfsHXzYoNIEA0Ghhk6b9WfRNiMKO2t25eW2knfnKDIJFBB4NGplSHnaeOI_kMNOYZRSSO7bpsFF3-Ti347Es-D3=w800-h500-k-no"
+    ],
+    "phone": "+49 69 93623838",
+    "website": "https://www.vuxcoffee.de/"
+  },
+  {
+    "id": "ChIJJ-EUggwLvUcR_a3MmcLGlas",
+    "name": "Bäckerei Sonnenschein",
+    "address": "Adolf-Miersch-Straße 8, 60528 Frankfurt am Main",
+    "latitude": 50.0834984,
+    "longitude": 8.643422,
+    "rating": 4.7,
+    "reviewCount": 127,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoF-kV8RhYWtJqaz4mMrcK7hXizGmTkVPU_cTrYDdCVbAoinpKs1xgyGbj-BNle6TcAqJefi9tlOPrm4wZWP4ARckN-tmCSxWsO4bZfKs2GMqN5sTJx7PXzm81wEklpyCR1ePcfAQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 26013654"
+  },
+  {
+    "id": "ChIJU1sMrWcLvUcRi-RYE3nHsOQ",
+    "name": "apinyas",
+    "address": "Riverside, Speicherstraße 55, 60327 Frankfurt am Main",
+    "latitude": 50.0986472,
+    "longitude": 8.6574288,
+    "website": "https://apinyas.com/"
+  },
+  {
+    "id": "ChIJ-UJsppgPvUcRspYo7VcPHbU",
+    "name": "STACKS Coffee",
+    "address": "Eschersheimer Landstraße 14, 60322 Frankfurt am Main",
+    "latitude": 50.1196462,
+    "longitude": 8.6781884,
+    "rating": 4.3,
+    "reviewCount": 172,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweobagAIHRDvw9eLfRD-LyRANDHHK7EOolFrrja2iJnVr_xRuttsuJcfOO75_fNTSvJow45rVOJmpE3ieyt4o_6guO3oQIKH49iR8NCb2qtpI1hkeTtAId5gKnWXLaKDuRhGoVY=w800-h500-k-no"
+    ],
+    "website": "http://stacks.coffee/"
+  },
+  {
+    "id": "ChIJHSkyjOMLvUcRo7yBotssV7s",
+    "name": "Bio Rösterei Basaglia",
+    "address": "Mainzer Landstraße 233, 60326 Frankfurt am Main",
+    "latitude": 50.1041224,
+    "longitude": 8.6476723,
+    "rating": 4.7,
+    "reviewCount": 102,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo08Acv4Vxx1kEBfAk0z7IQGcjHEF-EafkarLhUS_4pJpRdMxQn_b3MqDB4fFPZJouBfTCBeJDxexeOLkYerxNoulqVeJfkhdC8tsAYac5v56G9323HjGV5ojGqyrOBBrPSHRR_=w800-h500-k-no"
+    ],
+    "phone": "+49 69 739436718",
+    "website": "http://www.cafebasaglia.de/"
+  },
+  {
+    "id": "ChIJs-2HC_gLvUcROQUQiwZDFuA",
+    "name": "Cafe Mildan, Mildan Kiosk",
+    "address": "Karlsruher Str. 16, 60329 Frankfurt am Main",
+    "latitude": 50.1050517,
+    "longitude": 8.6636614,
+    "rating": 4.5,
+    "reviewCount": 49,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqRVd2z12dhQq8OKkT-RoCeXgt_pvNkOX_TPPbaTVjDIBbwaKpD4hP1bQKMMO1XlzzT_El3cL7QA9BWOc6RKKaVHS3l8JMfODhd0yvq6FeITwJNoh-U0EOi0r4lbMwXuFyEhyJJtA=w800-h500-k-no"
+    ],
+    "phone": "+49 69 25667808"
+  },
+  {
+    "id": "ChIJzaLUYgALvUcRP3tptToFCo0",
+    "name": "Akitoya Coffee",
+    "address": "Frankenallee 241, 60326 Frankfurt am Main",
+    "latitude": 50.1030866,
+    "longitude": 8.6290999,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d5fd5OXQWjXs4EeHubkQDA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=199.23628&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJNfzrwOcLvUcRqeQ9V0MasTg",
+    "name": "Dima Specialty Coffee",
+    "address": "Gutleutstraße 375, 60327 Frankfurt am Main",
+    "latitude": 50.0924849,
+    "longitude": 8.6349311,
+    "rating": 5.0,
+    "reviewCount": 140,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipNkaPrUkvC5jj_c7SUvDXMagCZ7HKQCehFZzq8f=w800-h500-k-no"
+    ],
+    "website": "https://www.instagram.com/dima.coffeeshop/"
+  },
+  {
+    "id": "ChIJLfNB9uwOvUcR-5-N2xD8DpY",
+    "name": "MokkaTeeria",
+    "address": "Heidestraße 149, 60385 Frankfurt am Main",
+    "latitude": 50.1277183,
+    "longitude": 8.7088348,
+    "rating": 4.8,
+    "reviewCount": 1615,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipPEEIGoDPWW_nqtN5G5QfViqDIA3sRzVYY2d4WG=w800-h500-k-no"
+    ],
+    "phone": "+49 69 90759091",
+    "website": "https://www.mokkateeria.de/"
+  },
+  {
+    "id": "ChIJ79PIjDYLvUcRbsaxTEv6phw",
+    "name": "Bäckerei Morgenstern",
+    "address": "Gerauer Str. 100, 60528 Frankfurt am Main",
+    "latitude": 50.0785905,
+    "longitude": 8.6474886,
+    "rating": 4.4,
+    "reviewCount": 111,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipPDsW083WZrW0rbVC4i3sj4_LK_OfIAbJ0J1gMk=w800-h500-k-no"
+    ],
+    "phone": "+49 177 5718548"
+  },
+  {
+    "id": "ChIJs2z49v0LvUcRxWmEnG9JM-M",
+    "name": "Café and a bar Ludwig",
+    "address": "Ludwigstraße 6, 60327 Frankfurt am Main",
+    "latitude": 50.10779,
+    "longitude": 8.6589279,
+    "rating": 4.5,
+    "reviewCount": 374,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipMDv_1x0f1CGnJ-mr5Amk9EnZJa4YeBgkeXtNDg=w800-h500-k-no"
+    ],
+    "phone": "+49 69 75933663"
+  },
+  {
+    "id": "ChIJr1QfPl0JvUcRPHq5y2vfbYw",
+    "name": "Cafe Nostalgie Frankfurt",
+    "address": "Schloßstraße 87, 60486 Frankfurt am Main",
+    "latitude": 50.1181024,
+    "longitude": 8.6452692,
+    "rating": 4.9,
+    "reviewCount": 346,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOR8lsyT2bTlcSUBEnp3-8UMUYGmyLpRoSP57nd=w800-h500-k-no"
+    ],
+    "phone": "+49 69 58302295",
+    "website": "https://www.instagram.com/cafe_nostalgie_frankfurt/"
+  },
+  {
+    "id": "ChIJxxxbLwALvUcROhoQX9dd0es",
+    "name": "Akitoya caffee 🥞☕️",
+    "address": "K803 366, 60326 Frankfurt am Main",
+    "latitude": 50.1017717,
+    "longitude": 8.6288622,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gr-YfXxaIlVHEKQzFXGM1A&cb_client=search.gws-prod.gps&w=800&h=500&yaw=1.5294185&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJ60gN-zoPvUcRbLfYuWtICQA",
+    "name": "Kaffeehaus Goldene Waage",
+    "address": "Markt 5, 60311 Frankfurt am Main",
+    "latitude": 50.1107343,
+    "longitude": 8.6844786,
+    "rating": 4.6,
+    "reviewCount": 1689,
+    "priceLevel": 3,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqo4OzN242Y6UX6i7-ccBw5dehAxPA3qMXemnXUWxq7uDe_AfZ5ttIfgb5T-aEEFSARqFo_IlbhjiGRjRZkrxnRMXu1idEDsWjpAQVoM4g36YEeZ01OOl0TyTUHyanD3Hy-t6Ia=w800-h500-k-no"
+    ],
+    "phone": "+49 69 92020323",
+    "website": "http://www.goldenewaage.com/"
+  },
+  {
+    "id": "ChIJWTccQt8LvUcR13wg5cjlV4E",
+    "name": "Bäckerei biokaiser",
+    "address": "Goldsteinstraße 126A, 60528 Frankfurt am Main",
+    "latitude": 50.0849893,
+    "longitude": 8.6317628,
+    "rating": 4.4,
+    "reviewCount": 51,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepX2LBOEmGQdCp-YUlTu70C1C8-eAvT2vBrPPSYMEbWqQUw-Tu6r7dVNPpnl4VQ_P42TTgd7AzWe5Q6Ynczbf8Q8qmnmC-dZzODAZWPWHenZVJKVn3X825wRVO_U4HZL87-sGA4Yg=w800-h500-k-no"
+    ],
+    "phone": "+49 6134 5842410",
+    "website": "http://www.biokaiser.de/"
+  },
+  {
+    "id": "ChIJ9QpY0BwMvUcRrUJ1Y2wN-gI",
+    "name": "Huck's Favorite Place",
+    "address": "Schweizer Str. 30, 60594 Frankfurt am Main",
+    "latitude": 50.1033707,
+    "longitude": 8.6792845,
+    "rating": 4.5,
+    "reviewCount": 802,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer2FM_AOQvGCGfYzeKKNCB5K1LGGWm_e7DIZsBKBcymooZGJ8fcz3Z8n-s--YfrSzaCDfXfooC6yVo8SFcEw1wqeyHmWgx-m4bAfyG-OA28JPk0vwAq7yT_S94ThuWHFcjO6G-3=w800-h500-k-no"
+    ],
+    "phone": "+49 69 60607886",
+    "website": "http://www.baeckerei-huck.de/"
+  },
+  {
+    "id": "ChIJazdjQ40LvUcRxlHryutCWj0",
+    "name": "Lido Eis",
+    "address": "Bruchfeldstraße 38, 60528 Frankfurt am Main",
+    "latitude": 50.08708,
+    "longitude": 8.64796,
+    "rating": 4.4,
+    "reviewCount": 298,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepYUENbaj-VdVyuFtypAm_GK4yNiZl6SdQOlunC7yxpYXtqqfsXdWiqcBwtNk9Q15m-l0dwRmQsUhYEs6AyOPRFYVzVG0siSttXjwIvRynS2iyrx6Odo7N4HVjt8AYOAGK89D2u=w800-h500-k-no"
+    ],
+    "phone": "+49 69 674224",
+    "website": "http://www.lido-eis.de/"
+  },
+  {
+    "id": "ChIJ-2i6-IgLvUcRGPh-8P_fdEk",
+    "name": "Kiosk Am Oberforsthaus",
+    "address": "Schwarzwaldstraße, 60528 Frankfurt am Main",
+    "latitude": 50.0794437,
+    "longitude": 8.6544788,
+    "rating": 5.0,
+    "reviewCount": 10,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jmaaOl0cTP6LqtkrU2cJlw&cb_client=search.gws-prod.gps&w=800&h=500&yaw=359.58484&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJFyy4QPkLvUcRz7NT8S_TOeY",
+    "name": "Café Frankfurt",
+    "address": "Gutleutstraße 161, 60327 Frankfurt am Main",
+    "latitude": 50.101637,
+    "longitude": 8.6598256,
+    "rating": 4.1,
+    "reviewCount": 161,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep4KS7qHlWJWiGhMe-Ab0QBjm_LpxxmSNj9-la41nJmXx4JQpyy3B2Jl_gfTNInpRpSEuEThlaqVrLxJucTRgkpyTfUP7JDFxh98Ajf7m6QZOGTqmLUUYsnsi3o_NYob2LwBr7wvg=w800-h500-k-no"
+    ],
+    "phone": "+49 69 26941700",
+    "website": "http://www.cafe-frankfurt.de/"
+  },
+  {
+    "id": "ChIJW5A2CAALvUcRwSZvqG9A7Xo",
+    "name": "Akitoya‘s café",
+    "address": "Römischer Ring, 60486 Frankfurt am Main",
+    "latitude": 50.1096157,
+    "longitude": 8.6332942
+  },
+  {
+    "id": "ChIJQw1cP8AKvUcReDx9M953Thc",
+    "name": "Coffee Fellows",
+    "address": "Bereich C, Südpassage, Ebene 2/Terminal T1, 60549 Frankfurt am Main",
+    "latitude": 50.05263,
+    "longitude": 8.577447,
+    "rating": 3.1,
+    "reviewCount": 102,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqjOaxqrwVjPQ-7yCGCt2bUrhaVbXy_xa2NTCnxPdaxQ7hJwEaDipE_r5rJaEE7egnAq0OIEri0JfGO3_9kz6CXR0HRr957cWlMZ4kJ3se90uOajIhpEPdEQWb4KJvJV8fKzR2uGQ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 92020547",
+    "website": "https://www.coffee-fellows.com/locations/frankfurt-flughafen-abflug-c"
+  },
+  {
+    "id": "ChIJC7jpwRwMvUcRckbvzJWuTyI",
+    "name": "Sachsenhäuser Feinbäckerei",
+    "address": "Schweizer Str. 44, 60594 Frankfurt am Main",
+    "latitude": 50.1026752,
+    "longitude": 8.6798156,
+    "rating": 4.6,
+    "reviewCount": 346,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoBKOtDaqsFmclu1wvPTJuzc6o8UnTeM5cm7l4p5ypSjag-Bq0Aa70kv_DGjJnTYDrdyWIJnzFAcS1DiwrGrIQBlbIeBGRnC1vtK1lLC0FNh-EeSz4yAQaZcJ0E-Zt5JEHR0IzJ=w800-h500-k-no"
+    ],
+    "phone": "+49 69 97694012",
+    "website": "https://sellwerk.de/firmenprofil/sachsenhaeuser-feinbaeckerei"
+  },
+  {
+    "id": "ChIJ3XRKxUgNvUcR9uE22hs1giM",
+    "name": "Yeahia Coffee Shop",
+    "address": "Schifferstraße 59, 60594 Frankfurt am Main",
+    "latitude": 50.1055708,
+    "longitude": 8.6826576,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=akqKQz3ydY7QMq7JDYEX1w&cb_client=search.gws-prod.gps&w=800&h=500&yaw=226.22075&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJ59T8LaULvUcR3hOgBjUcK6o",
+    "name": "Scoom Hauptbahnhof Frankfurt",
+    "address": "Hauptbahnhof, 60329 Frankfurt am Main",
+    "latitude": 50.106529,
+    "longitude": 8.6621618,
+    "rating": 3.1,
+    "reviewCount": 28,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqCsmS-xjWlIHpcozvR6T5VjQOKM57B3HzfjjZG0Rb7x-4CRUBWmOUJJt3Qt7auoOSHKskFraeR9q6s8ZZPkZcVEtHsOtFWuDH9_LngcFuNNezcRXY2eGU_8SGPo1aUKAA7TtQLDhuL9GA=w800-h500-k-no"
+    ],
+    "website": "https://www.scoom.de/"
+  },
+  {
+    "id": "ChIJa7JWc-ALvUcRwoYmRFAkhY4",
+    "name": "Café Croquant",
+    "address": "Europa-Allee 77, 60486 Frankfurt am Main",
+    "latitude": 50.1080635,
+    "longitude": 8.6409616,
+    "rating": 4.0,
+    "reviewCount": 1608,
+    "priceLevel": 3,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipP2csRrGu46Xy4C8ykQw-3UcZ6Kl_ykICNPJyiO=w800-h500-k-no"
+    ],
+    "website": "http://www.croquant.de/",
+    "description": "Breakfast platters & pastries, plus sandwiches & light lunches, with an old-world Parisian vibe."
+  },
+  {
+    "id": "ChIJ35Jn8a4OvUcR-alrNqBBZgE",
+    "name": "Cafe im Hugendubel",
+    "address": "Steinweg 12, 60313 Frankfurt am Main",
+    "latitude": 50.113651,
+    "longitude": 8.677205,
+    "rating": 4.5,
+    "reviewCount": 132,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepv-B1ryw87tUX4_VgKD7ZVsnMD2LZSzSJjzxUgoJm7pyxuCvRAUsLB_5nYv7v8QKFzeYiBHKy-GLE8YyKb-bhNkf1q1lmpGfVTYPU0uZ6RpaACJTB0ij6AipUkqb0iJZy9rhIp=w800-h500-k-no"
+    ],
+    "phone": "+49 89 30757575",
+    "website": "http://www.hugendubel.de/cafe"
+  },
+  {
+    "id": "ChIJRxHZFUQLvUcR7vn9xb4kwZU",
+    "name": "Café Raumvorteil",
+    "address": "Alt-Griesheim 53, 65933 Frankfurt am Main",
+    "latitude": 50.090883,
+    "longitude": 8.6041373,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NqlTQfbXJuUZMjvNu5E7uA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=20.522686&pitch=0&thumbfov=100"
+    ]
+  },
+  {
+    "id": "ChIJXa0TXL8KvUcRnTIKQNqWpP8",
+    "name": "Heberer's Traditional Bakery",
+    "address": "Hugo-Eckener-Ring 1, 60549 Frankfurt am Main",
+    "latitude": 50.0506987,
+    "longitude": 8.5717145,
+    "rating": 2.8,
+    "reviewCount": 634,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerb8CzafNkkGhUsSKnuLh5449kh1UePG5jIBCTjSBc4Sd5nfnyT27huMuv_xi6T2A26bpthJkv58EqDwFmJYcQ6aIJH5Og_A6tOoj-IGCrlC9MXZ4DdgJ35jdyrVLVojY-gAMs=w800-h500-k-no"
+    ],
+    "phone": "+49 180 5 805805",
+    "website": "https://heberer.de/"
+  },
+  {
+    "id": "ChIJv-OTLfsLvUcRjO3u6p9NPjI",
+    "name": "Brudi Kiosk",
+    "address": "Adolf-Miersch-Straße 1A, 60528 Frankfurt am Main",
+    "latitude": 50.0831199,
+    "longitude": 8.6437635,
+    "rating": 4.1,
+    "reviewCount": 76,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq-xxiLV2mVyum3FeGeZc2WstXiGg8Vx_vX_OQF8H7DQcLoGvQ3ptuCT7qCivJ45mEjcQl2A9KevEyR22zHRjtxcYegLjRpFjWhCKVBk4UeVNbx4_2xVk0iGigHYggYxgZEXXY=w800-h500-k-no"
+    ],
+    "phone": "+49 1521 7447744"
+  },
+  {
+    "id": "ChIJHfRRlpILvUcRutMba4v-InY",
+    "name": "The baker Eifler",
+    "address": "Bruchfeldstraße 56, 60528 Frankfurt am Main",
+    "latitude": 50.0868388,
+    "longitude": 8.6459439,
+    "rating": 3.8,
+    "reviewCount": 361,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAlTqLWck_VOH_9CyRor5jd2HacPaSHRVAjL3g57uKnGHBpaVRlTJRFRmlCvOTWFAJBrk0KOvDulLqHEAsGgpvk-RpeW6VeI5YGN3JIK6RcuZsFHH1M9Rt6OmHYg4GSvsKPzqXUw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 67739701",
+    "website": "http://www.der-baecker-eifler.de/"
+  },
+  {
+    "id": "ChIJtYPHGOULvUcRv_eYm0BrxF4",
+    "name": "SPÄTIUM KIOSK",
+    "address": "Lyoner Str. 44-48, 60528 Frankfurt am Main",
+    "latitude": 50.077749,
+    "longitude": 8.6283434,
+    "rating": 4.7,
+    "reviewCount": 73,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoJZGBPoC1op2eC3PVmCmZTWqOEHZCoCQX8FsAPPiBaC61qUG55GQyncY1YbJCDEifvDstEBYuM-L5GXAl5H0h6POwNC9z-wlTaHMilJZdJaR_p0EFbRUAWo7P2KjDxD7tt5hxk0JliqeN0=w800-h500-k-no"
+    ],
+    "phone": "+49 178 4658954"
+  },
+  {
+    "id": "ChIJ62WniDoKvUcR8Wi0dFyl0WM",
+    "name": "Asia Restaurant Hahaa Frankfurt am Main",
+    "address": "Lyoner Str. 44-48, 60528 Frankfurt am Main",
+    "latitude": 50.0776281,
+    "longitude": 8.6280674,
+    "rating": 4.4,
+    "reviewCount": 283,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqlnm6n0r_JuNizvgFJCrUJtpWiMAjllMe_a3qjoGq_GwNYU-777rdvFjNcCSf0dPJYA1x2mUJX0BwLzeZkjHIh5v8jQYvGNqdfq3FHl8XDVifxcBF9GvjIPqe6KRQe5ZZfE47A=w800-h500-k-no"
+    ],
+    "phone": "+49 69 60629993",
+    "website": "https://asia-hahaa.de/"
+  },
+  {
+    "id": "ChIJHySzmdELvUcRHc2ovLYJKRQ",
+    "name": "Kiosk Meli",
+    "address": "Melibocusstraße 33, 60528 Frankfurt am Main",
+    "latitude": 50.0847205,
+    "longitude": 8.6385017,
+    "rating": 5.0,
+    "reviewCount": 7,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipN0i8Z-eYz2ml1-3OphmtFVCA8SBGnOfVqs2dl8=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJ3U2hF6sLvUcRzJF__JkdrIU",
+    "name": "MoTaKi Asian Fusion",
+    "address": "Hahnstraße 70, 60528 Frankfurt am Main",
+    "latitude": 50.0795033,
+    "longitude": 8.6337683,
+    "rating": 4.7,
+    "reviewCount": 834,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerxJpAKOFf-fpeQ_xsna0NGenr_2r5qe_h5zWNHxHwLlJXOKrivrIcwpGH-IusjL9hlW7zVa9ewhmNNARMPaFqsArYl_MJlYDoGSwC3yLNu9WraHhpI2JSv5rLE2Byjnuakp8bV=w800-h500-k-no"
+    ],
+    "phone": "+49 69 69718780",
+    "website": "https://www.motaki.de/"
+  },
+  {
+    "id": "ChIJtf-W60gLvUcR2B8WvpcnF3k",
+    "name": "\"DRK Repair-Café\" der Wohlfahrts und Sozialarbeit des DRK Bezirksverband Frankfurt am Main, Ortsverein Süd.",
+    "address": "Schwarzwaldstraße 12, 60528 Frankfurt am Main",
+    "latitude": 50.0874887,
+    "longitude": 8.646205,
+    "rating": 4.0,
+    "reviewCount": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoLsBtB6ZW7DhsMWv-SsdveKuUGHGI5_wammwZ8LiGoHBCZ6dJMtV7GWLrq3oBJQ8g8oKY6wirUb2_DBGD6lkQBGFkO9ZnyTtupzaggEMLEaSU-1yAYNL6_gc0CYtCttIzIQWbGuw=w800-h500-k-no"
+    ],
+    "phone": "+49 69 672537"
+  },
+  {
+    "id": "ChIJmQYhDtcLvUcRiY7cm7HTM3k",
+    "name": "Pizzeria Bellissima",
+    "address": "Gerauer Str. 24, 60528 Frankfurt am Main",
+    "latitude": 50.0839309,
+    "longitude": 8.6440321,
+    "rating": 4.7,
+    "reviewCount": 351,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8crPP6BfSjmw31aoKGcSlAqEFPtt-uKcL3htj0oPjF-cgYogy79uKQr0guH9dw7L-fYzT5GBMqZ9452I1Em_AZI-sc-XfO-a2cilnNPVV1Wqzii64JeqjfQ4BQ8GyNles75Tn=w800-h500-k-no"
+    ],
+    "phone": "+49 69 67737475",
+    "website": "https://bellissima-liefert.de/"
+  },
+  {
+    "id": "ChIJh381II8LvUcRRsVNRfRaqaQ",
+    "name": "Pizzeria La Stalla Frankfurt",
+    "address": "Waldstraße 1, 60528 Frankfurt am Main",
+    "latitude": 50.0816494,
+    "longitude": 8.6520838,
+    "rating": 4.3,
+    "reviewCount": 571,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerfD1YADWlEUwULZhvFra5yTA8q_NgdD9oGw9kX0Zpa72awNv07y5IVtUCjUmwLjJaAjOgBkE0zmVqo_pfvsb4BnA_jdm3_UuWkOC4rAREV2BSVrZddfICBFDLktq0AAASWA7xd=w800-h500-k-no"
+    ],
+    "phone": "+49 69 96740078",
+    "website": "https://app.ristorantelastalla.de/"
+  },
+  {
+    "id": "ChIJ-6zfpsELvUcR7ygxwNio2Fw",
+    "name": "Denns BioMarkt Frankfurt",
+    "address": "Goldsteinstraße 126 A, 60528 Frankfurt am Main",
+    "latitude": 50.0849908,
+    "longitude": 8.6317955,
+    "rating": 4.1,
+    "reviewCount": 72,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOMeDg5Ae-4yqlUlpAA1gYfQbuC4X8Reqfhnd0=w800-h500-k-no"
+    ],
+    "phone": "+49 69 66366798",
+    "website": "https://www.biomarkt.de/frankfurt-goldsteinstr-126-a/marktseite/"
+  },
+  {
+    "id": "ChIJnT_2-q4LvUcR4vh-FCZzv_0",
+    "name": "REWE To Go bei Aral",
+    "address": "Aral, Forsthausstraße 50, 60528 Frankfurt am Main",
+    "latitude": 50.0798519,
+    "longitude": 8.6548313,
+    "rating": 4.1,
+    "reviewCount": 97,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqdNA658Ad2Ex-mgFAkhPlKcwHBVPAxYtc0I3pVnrePFIXwin_WVu0JA6L2goLsEbxaSOI6UTPJXR6iDlwBfNVl9sS7L8vVUPxk93o1Ez2WQo3OgAHzXD0mgo3cYUAzHzjpoFKb=w800-h500-k-no"
+    ],
+    "phone": "+49 69 671026",
+    "website": "https://tankstelle.aral.de/tankstelle/12001300"
+  },
+  {
+    "id": "ChIJ8RwTQQALvUcRAUy7pfP23mc",
+    "name": "P+R Frankfurt am Main Stadion P1",
+    "address": "Frankfurt am Main Stadion، 60528 Frankfurt am Main",
+    "latitude": 50.0679842,
+    "longitude": 8.6334982
+  },
+  {
+    "id": "ChIJ_eCMB3gLvUcRZAERPD2cAxQ",
+    "name": "VierF",
+    "address": "Otto-Fleck-Schneise 8, 60528 Frankfurt am Main",
+    "latitude": 50.0677705,
+    "longitude": 8.6425024,
+    "rating": 4.6,
+    "reviewCount": 11,
+    "photos": [
+      "https://lh3.googleusercontent.com/p/AF1QipOs80BJxXhM3kcDH4b913vwmGNCbjojC4jQZ7k0=w800-h500-k-no"
+    ],
+    "phone": "+49 69 339968380",
+    "website": "http://www.lindnerhotels.com/hotels/lindner-hotel-frankfurt-sportpark"
+  },
+  {
+    "id": "ChIJX3fFb4ALvUcRvH7BH5LNMZs",
+    "name": "Gold Döner & Pizza Haus",
+    "address": "Adolf-Miersch-Straße 8, 60528 Frankfurt am Main",
+    "latitude": 50.0834984,
+    "longitude": 8.643422,
+    "rating": 4.8,
+    "reviewCount": 225,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepeofKagVEFydpGf7HypLt6QaGRyC8TPvrBaFgS482AQLyKHyFNATZ4PRYgG6GwbKXYNC5QnMgIFzCzzxtmQDfImoKrudK86JTzOtyx7QCkHenD6q92VEhLSUntQqxHtL-VDxlX7xtdWGc=w800-h500-k-no"
+    ],
+    "phone": "+49 69 673128",
+    "website": "https://www.xn--golddner-r4a.de/"
+  },
+  {
+    "id": "ChIJ8QnU0qELvUcRW9Ap5Jjv_Zg",
+    "name": "FITSEVENELEVEN NIEDERRAD BLACK+",
+    "address": "Lyoner Str. 36, 60528 Frankfurt am Main",
+    "latitude": 50.0775628,
+    "longitude": 8.6242751,
+    "rating": 4.4,
+    "reviewCount": 486,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqy-rSIDRLUSFEwOZmuks85XQJzBOYhX86A6BXN25OkasYcgRvEsDVwiGUNajAW3ZG-YaH8SmTKLA0c3gtxogS5_rTqziRsqZBwlGLur8iYS9lY5cCAX5rg0bgKnBF74TwfEvWZ0A=w800-h500-k-no"
+    ],
+    "phone": "+49 69 1532406711",
+    "website": "https://fitseveneleven.de/clubs/fitnessstudio-niederrad-black/"
+  },
+  {
+    "id": "ChIJY56D6s4PvUcRfBXSCMHYQ9Y",
+    "name": "MONZA Caffè & Bar - Fressgass",
+    "address": "Große Bockenheimer Str. 43, 60313 Frankfurt am Main",
+    "latitude": 50.1146482,
+    "longitude": 8.6735166,
+    "rating": 4.7,
+    "reviewCount": 294,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepbOlZ4rgkeWkQ6XEwyqD7ZPLVpGBtAf57eVD-KWqUSiFJZLzpPRAeUIEAP9WPkODLRi7hsgfiMySxM_a3xAf2ZwJQFzLAiwJ9QKRXLunrBMbwx2N7Od2A_PzIEHLmYHl1RZJF1=w800-h500-k-no"
+    ],
+    "website": "http://www.monzacoffee.com/"
+  },
+  {
+    "id": "ChIJ5a4SiJkLvUcRxd8AQKKhaio",
+    "name": "Soccers-Point",
+    "address": "Hahnstraße 75, 60528 Frankfurt am Main",
+    "latitude": 50.076533,
+    "longitude": 8.6352869,
+    "rating": 3.8,
+    "reviewCount": 428,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerl-SCFwdpzSchmBvJG1sH97j4-cihB8U0xKY6EXxR77RN9kxc5u54LKsu2OSnSVUa-0IQa0L5LwxaN5bY_Q8BoDWnJrEvgDoJHybs7CHEKsFcQaR3xMBTmN-e8Wz3YdQye2yU=w800-h500-k-no"
+    ],
+    "phone": "+49 69 831926",
+    "website": "http://www.soccers-point.de/"
+  },
+  {
+    "id": "ChIJMZDqVXsPvUcRbjC53d1xhAU",
+    "name": "Café Buur",
+    "address": "Berger Str. 65, 60316 Frankfurt am Main",
+    "latitude": 50.1211821,
+    "longitude": 8.6972204,
+    "rating": 4.5,
+    "reviewCount": 1886,
+    "priceLevel": 3,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoGhaYAtf211mtkGfe89JXXJ48xRTEN6IW3emNvBZnhzel8U7V30xaR5ho91nwjsh-uDXqHoxworD5B9BnYmEa8aXO7sUSg83oOeGp0qCGPkSH9EWO7ntyU3uC8ww9xIcnJiHE=w800-h500-k-no"
+    ],
+    "phone": "+49 69 49085303",
+    "website": "https://cafebuur.de/en/",
+    "description": "Chill hangout serving brunch staples such as smoothie bowls, pancakes, bagels & eggs, plus coffee."
+  },
+  {
+    "id": "ChIJTQzg2NULvUcR8qO6qSDMR3M",
+    "name": "Tchibo im Supermarkt",
+    "address": "Güntherstraße 3-5, 60528 Frankfurt am Main",
+    "latitude": 50.0837354,
+    "longitude": 8.649085,
+    "photos": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2rrANphBEOCFw8MkrMDNvw&cb_client=search.gws-prod.gps&w=800&h=500&yaw=98.930405&pitch=0&thumbfov=100"
+    ],
+    "phone": "+49 800 3000111",
+    "website": "https://www.tchibo.de/tchibo-im-supermarkt-guentherstr-3-5-60528-frankfurt-niederrad-a1415082.html"
+  },
+  {
+    "id": "ChIJL5RrCzULvUcRKkCdEnbhGRo",
+    "name": "Toast und Waffelverkauf für Spenden",
+    "address": "Mainfeldstraße 45, 60528 Frankfurt am Main",
+    "latitude": 50.0904621,
+    "longitude": 8.643421,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerp1E-JzsCcwY6u4m7HtNy00Dl0_6HUtdMRArN7LzMMt9afnvvWDrmNnBbzhGU6Bjm7NVoUBH7aWamL5XyM9Nds3lFCPHu81XRIBtUlm15BVcZsaIQiRJLQiGQg-qnsVdKZ9SEeFQ=w800-h500-k-no"
+    ]
+  },
+  {
+    "id": "ChIJDyMr8QIMvUcRJRogNAH62Vs",
+    "name": "Maincafé",
+    "address": "Schaumainkai 50, 60596 Frankfurt am Main",
+    "latitude": 50.1049583,
+    "longitude": 8.6757528,
+    "rating": 4.4,
+    "reviewCount": 1587,
+    "priceLevel": 2,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqJkLyLZGTPNPGtCc99BDDJWYvpgF2UcPKX5dn7_VYl5nXOl4MCcCR6uEZQFs5pJbOfEFuOfdmZqVngIzYg1xpvxRn0GwKwRPV9sQQBH4zVuTGRGYL9692MsGpajPw6P3iH1hPd=w800-h500-k-no"
+    ],
+    "phone": "+49 69 66169713",
+    "website": "https://maincafe.net/",
+    "description": "Bagels, light bites & beer at shaded outdoor tables in a park with views over the Main River."
+  },
+  {
+    "id": "ChIJZSs6yb0LvUcRYq_2XVRp4dA",
+    "name": "SuppenGlück",
+    "address": "Lyoner Str. 14, 60528 Frankfurt am Main",
+    "latitude": 50.0826059,
+    "longitude": 8.6292159,
+    "rating": 4.5,
+    "reviewCount": 337,
+    "priceLevel": 1,
+    "photos": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepsFw6EBgmL_uigFMeYI5hQS0KncjMJWVU93xpaVQU0cv9dfbtt-HUDy8hHvGJQg9iHs_SLjVARwXajfy7nvUIdl3Z22amnk0aPCGSzhi-sNGdQt1KPX_MsdrCQ3tboVfXWz1Y=w800-h500-k-no"
+    ],
+    "phone": "+49 69 66058288",
+    "website": "https://suppenglueck.eatbu.com/"
+  }
+]
